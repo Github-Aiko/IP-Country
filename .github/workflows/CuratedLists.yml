@@ -6,12 +6,24 @@ on:
 permissions: write-all
 jobs:
   build:
-    name: Run CuratedLists
-    runs-on: windows-latest
+    name: Build Curated Lists
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: CuratedLists
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Build Curated Lists
+        run: python build-curated-lists.py
+      
+      - name: Commit and Push Changes
         run: |
-          .\Curated-Lists-Creation.ps1
-        shell: pwsh
+          git config --global user.email "aikocutehotme@gmail.com"
+          git config --global user.name "Github-Aiko"
+          git add --all
+          git commit -m "Update curated lists" || echo "No changes to commit"
+          git push
 

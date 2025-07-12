@@ -2,12 +2,10 @@
 
 ## Internet Assigned Numbers Authority [(IANA)](https://www.iana.org/numbers) official IP address blocks
 
-### This repository is Automated with GitHub workflows, using PowerShell and running on latest Windows OS
+### This repository is automated with GitHub workflows, using Python and running on Ubuntu Linux
 
-- [Build workflow](https://github.com/HotCakeX/Official-IANA-IP-blocks/actions/workflows/Build.yml): Grabs the latest lists from the 5 Global Registeries for each continent and creates country specific `TEXT`, `CSV` and `JSON` files based off them and stores them in this repository - runs every day at `22:00`
-
-- [Pages-build-deployment workflow](https://github.com/HotCakeX/Official-IANA-IP-blocks/actions/workflows/pages/pages-build-deployment): Updates the GitHub pages website - runs automatically whenever the HTML file changes.
-
+- [Update All workflow](https://github.com/HotCakeX/Official-IANA-IP-blocks/actions/workflows/update-all.yml): Complete daily update of IP blocks, ASN data, and curated lists - runs every day at `00:00`
+- [Build workflow](https://github.com/HotCakeX/Official-IANA-IP-blocks/actions/workflows/Build.yml): Grabs the latest lists from the 5 Global Registries and creates country-specific `TXT`, `CSV` and `JSON` files - runs every day at `22:00`
 - [CuratedLists workflow](https://github.com/HotCakeX/Official-IANA-IP-blocks/actions/workflows/CuratedLists.yml): Creates curated lists - runs every day at `15:00`
   - [State Sponsors of Terrorism countries cumulative list](https://github.com/HotCakeX/Official-IANA-IP-blocks/blob/main/Curated-Lists/StateSponsorsOfTerrorism.txt) - [_official website_](https://www.state.gov/state-sponsors-of-terrorism/)
   - [OFAC Sanctioned Countries cumulative list](https://github.com/HotCakeX/Official-IANA-IP-blocks/blob/main/Curated-Lists/OFACSanctioned.txt) - [_official website_](https://ofac.treasury.gov/sanctions-programs-and-country-information)

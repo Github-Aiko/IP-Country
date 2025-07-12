@@ -6,17 +6,31 @@ on:
 permissions: write-all
 jobs:
   build:
-    name: Run Build
-    runs-on: windows-latest
+    name: Build IP and ASN Data
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
         run: |
-          .\build.ps1
-          # Pushing the sources and list to main
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Build IP Data
+        run: python build.py
+      
+      - name: Build ASN Data
+        run: python build-asn.py
+      
+      - name: Commit and Push Changes
+        run: |
           git config --global user.email "aikocutehotme@gmail.com"
           git config --global user.name "Github-Aiko"
           git add --all
-          git commit -m "updating sources and list"
+          git commit -m "Update IP blocks and ASN data" || echo "No changes to commit"
           git push
-        shell: pwsh

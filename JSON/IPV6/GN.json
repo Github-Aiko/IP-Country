@@ -1,6 +1,18 @@
 [
   {
     "Country": "GN",
+    "IP": "2001:43f8:c60::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GN",
+    "IP": "2001:43f8:c61::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GN",
     "IP": "2c0f:3e00::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -51,18 +63,6 @@
     "Country": "GN",
     "IP": "2c0f:fbd0::",
     "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GN",
-    "IP": "2001:43f8:c60::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GN",
-    "IP": "2001:43f8:c61::",
-    "PrefixLength": "48",
     "Version": "ipv6"
   }
 ]

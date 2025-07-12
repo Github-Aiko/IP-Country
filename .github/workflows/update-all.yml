@@ -1,0 +1,40 @@
+name: Update All Data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+permissions: write-all
+
+jobs:
+  update-all:
+    name: Update IP Blocks, ASN, and Curated Lists
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Build IP Data
+        run: python build.py
+      
+      - name: Build ASN Data
+        run: python build-asn.py
+        
+      - name: Build Curated Lists
+        run: python build-curated-lists.py
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "aikocutehotme@gmail.com"
+          git config --global user.name "Github-Aiko"
+          git add --all
+          git commit -m "Update IP blocks, ASN data, and curated lists" || echo "No changes to commit"
+          git push
