@@ -3427,12 +3427,6 @@
   },
   {
     "Country": "DE",
-    "IP": "2001:67c:232c::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "DE",
     "IP": "2001:67c:2334::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -12530,6 +12524,12 @@
   {
     "Country": "DE",
     "IP": "2a0a:5340::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "DE",
+    "IP": "2a0a:57c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
