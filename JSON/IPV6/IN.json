@@ -5179,6 +5179,12 @@
   },
   {
     "Country": "IN",
+    "IP": "2001:df3:7340::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
     "IP": "2001:df3:75c0::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -7802,6 +7808,12 @@
   {
     "Country": "IN",
     "IP": "2001:df5:de00::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
+    "IP": "2001:df5:de40::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -12584,6 +12596,12 @@
   {
     "Country": "IN",
     "IP": "2402:1860::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
+    "IP": "2402:18e0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
