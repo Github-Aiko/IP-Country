@@ -4453,6 +4453,12 @@
   },
   {
     "Country": "BD",
+    "IP": "2001:df5:e2c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
     "IP": "2001:df5:e580::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -6974,6 +6980,18 @@
   {
     "Country": "BD",
     "IP": "2402:1340::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
+    "IP": "2402:1960::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
+    "IP": "2402:19a0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
