@@ -547,12 +547,6 @@
   },
   {
     "Country": "PK",
-    "IP": "2001:df3:5380::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "PK",
     "IP": "2001:df3:6480::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -842,6 +836,12 @@
   {
     "Country": "PK",
     "IP": "2001:df5:d2c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PK",
+    "IP": "2001:df5:e540::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
