@@ -3595,12 +3595,6 @@
   },
   {
     "Country": "CA",
-    "IP": "64.65.34.0",
-    "PrefixLength": "23",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "CA",
     "IP": "64.65.40.0",
     "PrefixLength": "23",
     "Version": "ipv4"
@@ -8607,6 +8601,12 @@
     "Country": "CA",
     "IP": "91.230.28.0",
     "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "92.42.200.0",
+    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
