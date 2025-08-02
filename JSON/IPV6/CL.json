@@ -949,6 +949,12 @@
   },
   {
     "Country": "CL",
+    "IP": "2803:55d0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CL",
     "IP": "2803:56c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -1214,12 +1220,6 @@
   {
     "Country": "CL",
     "IP": "2803:83a0::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CL",
-    "IP": "2803:8540::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
