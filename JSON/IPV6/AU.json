@@ -3217,12 +3217,6 @@
   },
   {
     "Country": "AU",
-    "IP": "2001:df4:9740::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "AU",
     "IP": "2001:df4:99c0::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -3931,6 +3925,12 @@
   },
   {
     "Country": "AU",
+    "IP": "2001:df5:f040::",
+    "PrefixLength": "46",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AU",
     "IP": "2001:df5:f400::",
     "PrefixLength": "47",
     "Version": "ipv6"
@@ -4322,12 +4322,6 @@
   {
     "Country": "AU",
     "IP": "2001:df6:ff00::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "AU",
-    "IP": "2001:df7:280::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
