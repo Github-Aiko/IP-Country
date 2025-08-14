@@ -40417,6 +40417,14 @@
   },
   {
     "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "132403",
+    "Value": "1",
+    "Date": "20250814",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
     "Country": "AF",
     "ASN": "132404",
     "Value": "1",
@@ -61882,14 +61890,6 @@
   {
     "Registry": "apnic",
     "Country": "HK",
-    "ASN": "136896",
-    "Value": "1",
-    "Date": "20170727",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "HK",
     "ASN": "136897",
     "Value": "1",
     "Date": "20170727",
@@ -62581,6 +62581,14 @@
     "ASN": "136988",
     "Value": "1",
     "Date": "20170925",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "HK",
+    "ASN": "136989",
+    "Value": "1",
+    "Date": "20250814",
     "Status": "allocated"
   },
   {
@@ -63301,6 +63309,14 @@
     "ASN": "137182",
     "Value": "1",
     "Date": "20171121",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "ID",
+    "ASN": "137183",
+    "Value": "1",
+    "Date": "20250814",
     "Status": "allocated"
   },
   {
@@ -72515,14 +72531,6 @@
     "Registry": "apnic",
     "Country": "AU",
     "ASN": "139214",
-    "Value": "1",
-    "Date": "20190610",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "BD",
-    "ASN": "139215",
     "Value": "1",
     "Date": "20190610",
     "Status": "allocated"
@@ -104801,10 +104809,34 @@
   },
   {
     "Registry": "apnic",
-    "Country": "HK",
+    "Country": "AE",
     "ASN": "154147",
     "Value": "1",
     "Date": "20250813",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "154148",
+    "Value": "1",
+    "Date": "20250813",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "HK",
+    "ASN": "154149",
+    "Value": "1",
+    "Date": "20250814",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "154150",
+    "Value": "1",
+    "Date": "20250814",
     "Status": "allocated"
   }
 ]
