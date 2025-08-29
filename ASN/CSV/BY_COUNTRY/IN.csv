@@ -283,7 +283,6 @@ apnic,IN,45769,1,20090506,allocated
 apnic,IN,45775,1,20090512,allocated
 apnic,IN,45801,1,20090616,allocated
 apnic,IN,45804,1,20090618,allocated
-apnic,IN,45813,1,20090623,allocated
 apnic,IN,45815,1,20090624,allocated
 apnic,IN,45820,1,20090626,allocated
 apnic,IN,45825,1,20090629,allocated
@@ -924,7 +923,11 @@ apnic,IN,147189,1,20211007,allocated
 apnic,IN,147191,100,20211008,allocated
 apnic,IN,147305,1,20250429,allocated
 apnic,IN,147306,1,20250521,allocated
-apnic,IN,147316,1478,20211019,allocated
+apnic,IN,147316,684,20211019,allocated
+apnic,IN,148000,1,20211019,allocated
+apnic,IN,148001,2,20211019,allocated
+apnic,IN,148003,1,20211019,allocated
+apnic,IN,148004,790,20211019,allocated
 apnic,IN,148795,172,20211019,allocated
 apnic,IN,148992,1,20250224,allocated
 apnic,IN,149005,1,20211109,allocated
@@ -1145,6 +1148,8 @@ apnic,IN,154173,1,20250826,allocated
 apnic,IN,154174,1,20250826,allocated
 apnic,IN,154176,1,20250827,allocated
 apnic,IN,154181,1,20250828,allocated
+apnic,IN,154186,2,20250829,allocated
+apnic,IN,154188,1,20250829,allocated
 ripencc,IN,197555,1,20230726,allocated
 ripencc,IN,199347,1,20230317,allocated
 ripencc,IN,200169,1,20230124,allocated
