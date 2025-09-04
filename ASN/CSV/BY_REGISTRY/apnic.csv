@@ -3984,7 +3984,6 @@ apnic,AU,58687,1,20120827,allocated
 apnic,BD,58688,1,20120828,allocated
 apnic,BD,58689,1,20120828,allocated
 apnic,TH,58690,1,20120828,allocated
-apnic,BD,58691,1,20120828,allocated
 apnic,TH,58692,1,20120830,allocated
 apnic,IN,58693,1,20120903,allocated
 apnic,BD,58695,1,20120904,allocated
@@ -4023,7 +4022,6 @@ apnic,CN,58741,1,20121122,allocated
 apnic,HK,58744,1,20121123,allocated
 apnic,PK,58746,1,20121123,allocated
 apnic,PH,58748,1,20121127,allocated
-apnic,BD,58749,1,20121129,allocated
 apnic,AU,58750,1,20121130,allocated
 apnic,SG,58751,1,20121205,allocated
 apnic,BD,58752,1,20121206,allocated
@@ -4069,11 +4067,9 @@ apnic,AU,58882,1,20130325,allocated
 apnic,HK,58883,1,20130326,allocated
 apnic,PH,58884,1,20130328,allocated
 apnic,SG,58885,1,20130328,allocated
-apnic,BD,58886,1,20130402,allocated
 apnic,CN,58888,1,20130403,allocated
 apnic,BD,58889,1,20130408,allocated
 apnic,BD,58890,1,20130409,allocated
-apnic,BD,58892,1,20130409,allocated
 apnic,PK,58893,1,20130410,allocated
 apnic,AU,58894,1,20130411,allocated
 apnic,PK,58895,1,20130415,allocated
@@ -4114,7 +4110,6 @@ apnic,IN,58949,1,20130625,allocated
 apnic,AU,58950,1,20130628,allocated
 apnic,AU,58951,1,20130702,allocated
 apnic,MM,58952,1,20130702,allocated
-apnic,BD,58953,1,20130703,allocated
 apnic,IN,58954,1,20130704,allocated
 apnic,TH,58955,1,20130709,allocated
 apnic,HK,58958,1,20130712,allocated
@@ -4228,7 +4223,6 @@ apnic,SG,59369,1,20140529,allocated
 apnic,NP,59370,1,20140606,allocated
 apnic,HK,59371,1,20140606,allocated
 apnic,TH,59374,1,20140612,allocated
-apnic,BD,59375,1,20140618,allocated
 apnic,BD,59378,1,20140625,allocated
 apnic,IN,59379,1,20140701,allocated
 apnic,AF,59381,1,20140708,allocated
@@ -7766,6 +7760,7 @@ apnic,LK,136934,1,20170822,allocated
 apnic,AU,136935,1,20240815,allocated
 apnic,MN,136936,1,20170823,allocated
 apnic,BD,136937,1,20170823,allocated
+apnic,ID,136938,1,20250904,allocated
 apnic,AU,136939,1,20170825,allocated
 apnic,PG,136940,1,20170825,allocated
 apnic,BD,136941,1,20170825,allocated
@@ -13132,3 +13127,5 @@ apnic,MN,154194,1,20250901,allocated
 apnic,ID,154195,3,20250902,allocated
 apnic,PK,154198,1,20250903,allocated
 apnic,BD,154199,1,20250903,allocated
+apnic,PH,154200,1,20250903,allocated
+apnic,ID,154201,3,20250904,allocated
