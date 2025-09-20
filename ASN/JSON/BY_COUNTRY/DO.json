@@ -168,14 +168,6 @@
     "Status": "allocated"
   },
   {
-    "Registry": "ripencc",
-    "Country": "DO",
-    "ASN": "207036",
-    "Value": "1",
-    "Date": "20160915",
-    "Status": "allocated"
-  },
-  {
     "Registry": "lacnic",
     "Country": "DO",
     "ASN": "262148",
@@ -1669,6 +1661,14 @@
     "ASN": "274192",
     "Value": "1",
     "Date": "20250821",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "DO",
+    "ASN": "274204",
+    "Value": "1",
+    "Date": "20250919",
     "Status": "allocated"
   }
 ]

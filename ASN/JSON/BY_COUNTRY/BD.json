@@ -664,14 +664,6 @@
     "Status": "allocated"
   },
   {
-    "Registry": "ripencc",
-    "Country": "BD",
-    "ASN": "51447",
-    "Value": "1",
-    "Date": "20170925",
-    "Status": "allocated"
-  },
-  {
     "Registry": "apnic",
     "Country": "BD",
     "ASN": "55344",
@@ -15160,11 +15152,19 @@
     "Status": "allocated"
   },
   {
-    "Registry": "ripencc",
+    "Registry": "apnic",
     "Country": "BD",
-    "ASN": "203915",
+    "ASN": "154256",
     "Value": "1",
-    "Date": "20220713",
+    "Date": "20250919",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "154258",
+    "Value": "1",
+    "Date": "20250920",
     "Status": "allocated"
   }
 ]
