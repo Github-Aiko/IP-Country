@@ -30787,6 +30787,12 @@
   },
   {
     "Country": "BD",
+    "IP": "2001:df6:2cc0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
     "IP": "2001:df6:3180::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -244687,6 +244693,12 @@
   },
   {
     "Country": "JP",
+    "IP": "2602:f75d::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "JP",
     "IP": "2602:f780::",
     "PrefixLength": "36",
     "Version": "ipv6"
@@ -348644,12 +348656,6 @@
   {
     "Country": "US",
     "IP": "2602:f75c::",
-    "PrefixLength": "36",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f75d::",
     "PrefixLength": "36",
     "Version": "ipv6"
   },
