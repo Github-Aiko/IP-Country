@@ -6292,7 +6292,6 @@ apnic,NC,134405,1,20181002,allocated
 apnic,AU,134406,1,20150721,allocated
 apnic,SG,134407,1,20150720,allocated
 apnic,AU,134408,1,20150720,allocated
-apnic,AU,134409,1,20150720,allocated
 apnic,HK,134410,1,20171006,allocated
 apnic,IN,134411,1,20150721,allocated
 apnic,ID,134412,1,20250731,allocated
@@ -7115,7 +7114,6 @@ apnic,NZ,135606,1,20160629,allocated
 apnic,PH,135607,1,20161004,allocated
 apnic,IN,135608,1,20241219,allocated
 apnic,AU,135609,1,20241220,allocated
-apnic,AU,135610,1,20161005,allocated
 apnic,AU,135611,1,20161005,allocated
 apnic,AU,135612,1,20161005,allocated
 apnic,BD,135613,1,20241221,allocated
@@ -7229,7 +7227,6 @@ apnic,AU,136013,1,20161121,allocated
 apnic,BD,136014,1,20161121,allocated
 apnic,NZ,136015,1,20161121,allocated
 apnic,AU,136016,1,20161122,allocated
-apnic,AU,136017,1,20161122,allocated
 apnic,CN,136018,1,20161122,allocated
 apnic,AU,136019,1,20161123,allocated
 apnic,AU,136020,1,20161123,allocated
@@ -7499,7 +7496,6 @@ apnic,TH,136485,1,20170407,allocated
 apnic,LA,136486,1,20180430,allocated
 apnic,AU,136487,1,20170410,allocated
 apnic,NZ,136488,1,20170410,allocated
-apnic,AU,136489,1,20170410,allocated
 apnic,AU,136490,1,20170410,allocated
 apnic,HK,136491,1,20170410,allocated
 apnic,MY,136492,1,20170411,allocated
@@ -7648,7 +7644,6 @@ apnic,HK,136750,1,20200309,allocated
 apnic,MY,136751,1,20170615,allocated
 apnic,MM,136752,1,20170615,allocated
 apnic,AU,136753,1,20170615,allocated
-apnic,AU,136754,1,20170615,allocated
 apnic,CN,136755,1,20170615,allocated
 apnic,TW,136756,1,20170615,allocated
 apnic,AU,136757,1,20170616,allocated
@@ -8449,6 +8444,7 @@ apnic,JP,138181,1,20180905,allocated
 apnic,CN,138182,1,20180905,allocated
 apnic,BD,138183,1,20180906,allocated
 apnic,BD,138184,1,20241104,allocated
+apnic,PH,138185,1,20251007,allocated
 apnic,AU,138186,1,20201111,allocated
 apnic,NZ,138187,1,20180906,allocated
 apnic,MY,138188,1,20180906,allocated
@@ -8655,7 +8651,6 @@ apnic,PG,138506,1,20181217,allocated
 apnic,TH,138507,1,20181217,allocated
 apnic,HK,138508,1,20220314,allocated
 apnic,BD,138509,1,20181218,allocated
-apnic,AU,138510,1,20181218,allocated
 apnic,AU,138511,1,20250223,allocated
 apnic,BD,138512,1,20250220,allocated
 apnic,CN,138513,2,20200311,allocated
@@ -9890,7 +9885,6 @@ apnic,AU,140880,1,20200630,allocated
 apnic,HK,140881,1,20241115,allocated
 apnic,HK,140882,1,20200701,allocated
 apnic,HK,140883,1,20200701,allocated
-apnic,AU,140884,1,20200701,allocated
 apnic,AU,140885,1,20200701,allocated
 apnic,CN,140886,1,20200702,allocated
 apnic,BD,140887,1,20200702,allocated
@@ -10809,7 +10803,9 @@ apnic,TH,147187,1,20211007,allocated
 apnic,SG,147188,1,20211007,allocated
 apnic,IN,147189,1,20211007,allocated
 apnic,AU,147190,1,20211008,allocated
-apnic,IN,147191,100,20211008,allocated
+apnic,IN,147191,3,20211008,allocated
+apnic,IN,147194,1,20211008,allocated
+apnic,IN,147195,96,20211008,allocated
 apnic,PK,147291,1,20211008,allocated
 apnic,BD,147292,1,20211008,allocated
 apnic,HK,147293,1,20211011,allocated
@@ -13183,3 +13179,7 @@ apnic,IN,154280,1,20251003,allocated
 apnic,ID,154281,1,20251003,allocated
 apnic,IN,154282,1,20251003,allocated
 apnic,MY,154283,1,20251003,allocated
+apnic,IN,154284,1,20251007,allocated
+apnic,PH,154285,1,20251007,allocated
+apnic,BD,154286,1,20251007,allocated
+apnic,PH,154287,1,20251007,allocated
