@@ -16546,6 +16546,14 @@
   {
     "Registry": "arin",
     "Country": "US",
+    "ASN": "2730",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
     "ASN": "2731",
     "Value": "1",
     "Date": "20090831",
@@ -61022,6 +61030,14 @@
     "Value": "1",
     "Date": "20151211",
     "Status": "allocated"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "10475",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "assigned"
   },
   {
     "Registry": "lacnic",
@@ -265313,14 +265329,6 @@
   },
   {
     "Registry": "ripencc",
-    "Country": "AT",
-    "ASN": "41603",
-    "Value": "1",
-    "Date": "20060921",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
     "Country": "FR",
     "ASN": "41605",
     "Value": "1",
@@ -302365,14 +302373,6 @@
     "ASN": "47281",
     "Value": "1",
     "Date": "20080528",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "GE",
-    "ASN": "47282",
-    "Value": "1",
-    "Date": "20141121",
     "Status": "allocated"
   },
   {
@@ -384153,14 +384153,6 @@
   },
   {
     "Registry": "apnic",
-    "Country": "IN",
-    "ASN": "59379",
-    "Value": "1",
-    "Date": "20140701",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
     "Country": "AF",
     "ASN": "59381",
     "Value": "1",
@@ -398299,14 +398291,6 @@
     "Registry": "ripencc",
     "Country": "DE",
     "ASN": "61343",
-    "Value": "1",
-    "Date": "20121115",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "UA",
-    "ASN": "61344",
     "Value": "1",
     "Date": "20121115",
     "Status": "allocated"
@@ -427737,14 +427721,6 @@
   },
   {
     "Registry": "apnic",
-    "Country": "BD",
-    "ASN": "133410",
-    "Value": "1",
-    "Date": "20180630",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
     "Country": "SG",
     "ASN": "133411",
     "Value": "1",
@@ -448249,14 +448225,6 @@
   },
   {
     "Registry": "apnic",
-    "Country": "BD",
-    "ASN": "137871",
-    "Value": "1",
-    "Date": "20190529",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
     "Country": "HK",
     "ASN": "137872",
     "Value": "1",
@@ -454675,14 +454643,6 @@
     "Registry": "apnic",
     "Country": "AU",
     "ASN": "139222",
-    "Value": "1",
-    "Date": "20190612",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "BD",
-    "ASN": "139223",
     "Value": "1",
     "Date": "20190612",
     "Status": "allocated"
@@ -462763,14 +462723,6 @@
     "Registry": "apnic",
     "Country": "BD",
     "ASN": "141155",
-    "Value": "1",
-    "Date": "20200907",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "IN",
-    "ASN": "141156",
     "Value": "1",
     "Date": "20200907",
     "Status": "allocated"
@@ -487853,6 +487805,38 @@
     "ASN": "154290",
     "Value": "1",
     "Date": "20251008",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "ID",
+    "ASN": "154291",
+    "Value": "2",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "154293",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "MY",
+    "ASN": "154294",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "154295",
+    "Value": "1",
+    "Date": "20251009",
     "Status": "allocated"
   },
   {
@@ -528745,14 +528729,6 @@
   },
   {
     "Registry": "ripencc",
-    "Country": "ES",
-    "ASN": "202841",
-    "Value": "1",
-    "Date": "20160520",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
     "Country": "RO",
     "ASN": "202842",
     "Value": "1",
@@ -542817,6 +542793,14 @@
   },
   {
     "Registry": "ripencc",
+    "Country": "AT",
+    "ASN": "204944",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
     "Country": "GB",
     "ASN": "204945",
     "Value": "1",
@@ -544541,6 +544525,14 @@
     "ASN": "205162",
     "Value": "1",
     "Date": "20171026",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "AT",
+    "ASN": "205163",
+    "Value": "1",
+    "Date": "20251009",
     "Status": "allocated"
   },
   {
@@ -548813,6 +548805,14 @@
     "ASN": "205711",
     "Value": "1",
     "Date": "20170620",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "US",
+    "ASN": "205712",
+    "Value": "1",
+    "Date": "20251009",
     "Status": "allocated"
   },
   {
@@ -555121,6 +555121,14 @@
   },
   {
     "Registry": "ripencc",
+    "Country": "US",
+    "ASN": "206533",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
     "Country": "GE",
     "ASN": "206534",
     "Value": "1",
@@ -560801,6 +560809,14 @@
   },
   {
     "Registry": "ripencc",
+    "Country": "DE",
+    "ASN": "207258",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
     "Country": "RU",
     "ASN": "207259",
     "Value": "1",
@@ -563089,6 +563105,14 @@
   },
   {
     "Registry": "ripencc",
+    "Country": "HK",
+    "ASN": "207550",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
     "Country": "NL",
     "ASN": "207551",
     "Value": "1",
@@ -563125,14 +563149,6 @@
     "ASN": "207555",
     "Value": "1",
     "Date": "20200113",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "US",
-    "ASN": "207556",
-    "Value": "1",
-    "Date": "20220311",
     "Status": "allocated"
   },
   {
@@ -563965,6 +563981,14 @@
     "ASN": "207662",
     "Value": "1",
     "Date": "20220309",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "GB",
+    "ASN": "207663",
+    "Value": "1",
+    "Date": "20251009",
     "Status": "allocated"
   },
   {
@@ -566141,6 +566165,14 @@
     "ASN": "207939",
     "Value": "1",
     "Date": "20220810",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "DE",
+    "ASN": "207940",
+    "Value": "1",
+    "Date": "20251009",
     "Status": "allocated"
   },
   {
@@ -586037,14 +586069,6 @@
     "ASN": "210531",
     "Value": "1",
     "Date": "20250411",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "US",
-    "ASN": "210532",
-    "Value": "1",
-    "Date": "20211104",
     "Status": "allocated"
   },
   {
@@ -608153,7 +608177,7 @@
   },
   {
     "Registry": "ripencc",
-    "Country": "RO",
+    "Country": "US",
     "ASN": "213370",
     "Value": "1",
     "Date": "20250430",
@@ -616187,14 +616211,6 @@
     "Registry": "ripencc",
     "Country": "PL",
     "ASN": "214407",
-    "Value": "1",
-    "Date": "20240806",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "NL",
-    "ASN": "214408",
     "Value": "1",
     "Date": "20240806",
     "Status": "allocated"
@@ -629561,6 +629577,14 @@
   },
   {
     "Registry": "ripencc",
+    "Country": "GB",
+    "ASN": "216167",
+    "Value": "1",
+    "Date": "20251009",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
     "Country": "DE",
     "ASN": "216168",
     "Value": "1",
@@ -631321,7 +631345,7 @@
   },
   {
     "Registry": "ripencc",
-    "Country": "IT",
+    "Country": "IN",
     "ASN": "216395",
     "Value": "1",
     "Date": "20230828",
@@ -717930,6 +717954,14 @@
   {
     "Registry": "lacnic",
     "Country": "BR",
+    "ASN": "274546",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
     "ASN": "274547",
     "Value": "1",
     "Date": "20250924",
@@ -733765,6 +733797,22 @@
     "ASN": "329634",
     "Value": "1",
     "Date": "20251007",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "afrinic",
+    "Country": "KE",
+    "ASN": "329635",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "afrinic",
+    "Country": "KE",
+    "ASN": "329636",
+    "Value": "1",
+    "Date": "20251008",
     "Status": "allocated"
   },
   {
@@ -756381,6 +756429,14 @@
     "ASN": "396145",
     "Value": "1",
     "Date": "20170321",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "396146",
+    "Value": "1",
+    "Date": "20251008",
     "Status": "assigned"
   },
   {
@@ -789458,6 +789514,14 @@
   {
     "Registry": "arin",
     "Country": "US",
+    "ASN": "400958",
+    "Value": "1",
+    "Date": "20240404",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
     "ASN": "400959",
     "Value": "1",
     "Date": "20240405",
@@ -790483,14 +790547,6 @@
     "Registry": "arin",
     "Country": "US",
     "ASN": "401097",
-    "Value": "1",
-    "Date": "20240524",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
-    "ASN": "401098",
     "Value": "1",
     "Date": "20240524",
     "Status": "assigned"
@@ -798194,14 +798250,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "402070",
-    "Value": "1",
-    "Date": "20251008",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "402071",
     "Value": "1",
     "Date": "20251008",
@@ -798211,6 +798259,30 @@
     "Registry": "arin",
     "Country": "US",
     "ASN": "402072",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402073",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402074",
+    "Value": "1",
+    "Date": "20251008",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402075",
     "Value": "1",
     "Date": "20251008",
     "Status": "assigned"
