@@ -225487,6 +225487,12 @@
   },
   {
     "Country": "IN",
+    "IP": "2402:31e0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
     "IP": "2402:37c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -328212,6 +328218,12 @@
     "Version": "ipv6"
   },
   {
+    "Country": "TH",
+    "IP": "2602:f5f3::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
     "Country": "TJ",
     "IP": "2001:678:650::",
     "PrefixLength": "48",
@@ -346994,12 +347006,6 @@
   {
     "Country": "US",
     "IP": "2602:f5f2::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f5f3::",
     "PrefixLength": "40",
     "Version": "ipv6"
   },
