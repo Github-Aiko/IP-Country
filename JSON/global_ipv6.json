@@ -11935,6 +11935,12 @@
   },
   {
     "Country": "AT",
+    "IP": "2001:678:1124::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AT",
     "IP": "2001:67c:4c::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -105757,6 +105763,12 @@
   },
   {
     "Country": "CH",
+    "IP": "2a10:11c0::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CH",
     "IP": "2a10:1380::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -183963,6 +183975,12 @@
     "Country": "GB",
     "IP": "2a10:d00::",
     "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GB",
+    "IP": "2a10:1140::",
+    "PrefixLength": "32",
     "Version": "ipv6"
   },
   {
@@ -294044,7 +294062,7 @@
   {
     "Country": "PS",
     "IP": "2a00:8520::",
-    "PrefixLength": "32",
+    "PrefixLength": "29",
     "Version": "ipv6"
   },
   {
