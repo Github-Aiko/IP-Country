@@ -1,12 +1,12 @@
 {
-  "total_asns": 100047,
+  "total_asns": 100048,
   "by_country": {
     "US": 29394,
     "BR": 9082,
     "RU": 5720,
     "DE": 3133,
     "GB": 3104,
-    "AU": 2892,
+    "AU": 2897,
     "PL": 2450,
     "CA": 2381,
     "UA": 2009,
@@ -215,7 +215,6 @@
     "PW": 4,
     "AW": 4,
     "SX": 4,
-    "": 4,
     "NR": 4,
     "CF": 4,
     "VA": 3,
@@ -245,15 +244,15 @@
   },
   "by_registry": {
     "afrinic": 2630,
-    "apnic": 13232,
+    "apnic": 13233,
     "arin": 31272,
     "lacnic": 13936,
     "ripencc": 38977
   },
   "by_status": {
-    "allocated": 68775,
+    "allocated": 68776,
     "assigned": 31272
   },
-  "countries_count": 241,
+  "countries_count": 240,
   "registries_count": 5
 }
