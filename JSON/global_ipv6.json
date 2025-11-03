@@ -22219,6 +22219,12 @@
   },
   {
     "Country": "AU",
+    "IP": "2402:3660::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AU",
     "IP": "2402:3680::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -30926,6 +30932,12 @@
   {
     "Country": "BD",
     "IP": "2001:df6:4380::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
+    "IP": "2001:df6:4440::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -204812,6 +204824,12 @@
   {
     "Country": "ID",
     "IP": "2001:df6:43c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df6:44c0::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
