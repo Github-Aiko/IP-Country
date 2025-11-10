@@ -211402,6 +211402,14 @@
   {
     "Registry": "arin",
     "Country": "US",
+    "ASN": "33036",
+    "Value": "1",
+    "Date": "20251110",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
     "ASN": "33037",
     "Value": "1",
     "Date": "20040917",
@@ -412026,6 +412034,14 @@
   {
     "Registry": "arin",
     "Country": "US",
+    "ASN": "63172",
+    "Value": "1",
+    "Date": "20251110",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
     "ASN": "63173",
     "Value": "1",
     "Date": "20231120",
@@ -461497,14 +461513,6 @@
   },
   {
     "Registry": "apnic",
-    "Country": "CN",
-    "ASN": "140709",
-    "Value": "1",
-    "Date": "20200608",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
     "Country": "MY",
     "ASN": "140710",
     "Value": "1",
@@ -488829,6 +488837,22 @@
     "ASN": "154348",
     "Value": "1",
     "Date": "20251107",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "ID",
+    "ASN": "154349",
+    "Value": "1",
+    "Date": "20251110",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "VN",
+    "ASN": "154350",
+    "Value": "1",
+    "Date": "20251110",
     "Status": "allocated"
   },
   {
