@@ -13256,14 +13256,6 @@
     "Status": "allocated"
   },
   {
-    "Registry": "apnic",
-    "Country": "CA",
-    "ASN": "154340",
-    "Value": "1",
-    "Date": "20251104",
-    "Status": "allocated"
-  },
-  {
     "Registry": "ripencc",
     "Country": "CA",
     "ASN": "197820",
@@ -13398,6 +13390,14 @@
     "Value": "1",
     "Date": "20170731",
     "Status": "allocated"
+  },
+  {
+    "Registry": "arin",
+    "Country": "CA",
+    "ASN": "205663",
+    "Value": "1",
+    "Date": "20251110",
+    "Status": "assigned"
   },
   {
     "Registry": "ripencc",
@@ -13669,6 +13669,14 @@
     "ASN": "393249",
     "Value": "1",
     "Date": "20101214",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "CA",
+    "ASN": "393260",
+    "Value": "1",
+    "Date": "20251110",
     "Status": "assigned"
   },
   {
