@@ -5809,7 +5809,7 @@
   },
   {
     "Registry": "apnic",
-    "Country": "JP",
+    "Country": "CA",
     "ASN": "9663",
     "Value": "1",
     "Date": "20251111",
@@ -32617,6 +32617,14 @@
   },
   {
     "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "58916",
+    "Value": "1",
+    "Date": "20130502",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
     "Country": "BD",
     "ASN": "58918",
     "Value": "1",
@@ -38021,14 +38029,6 @@
     "ASN": "132089",
     "Value": "1",
     "Date": "20160727",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "IN",
-    "ASN": "132090",
-    "Value": "1",
-    "Date": "20160728",
     "Status": "allocated"
   },
   {
@@ -48053,6 +48053,14 @@
     "ASN": "133921",
     "Value": "1",
     "Date": "20150114",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "TH",
+    "ASN": "133922",
+    "Value": "1",
+    "Date": "20251111",
     "Status": "allocated"
   },
   {
@@ -106021,6 +106029,62 @@
     "ASN": "154356",
     "Value": "1",
     "Date": "20251111",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "154357",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "MY",
+    "ASN": "154358",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "MN",
+    "ASN": "154359",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "154360",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "HK",
+    "ASN": "154361",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "154362",
+    "Value": "1",
+    "Date": "20251112",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "154363",
+    "Value": "1",
+    "Date": "20251112",
     "Status": "allocated"
   }
 ]
