@@ -7724,7 +7724,13 @@
   {
     "Country": "UA",
     "IP": "176.111.36.0",
-    "PrefixLength": "20",
+    "PrefixLength": "21",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "UA",
+    "IP": "176.111.44.0",
+    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
