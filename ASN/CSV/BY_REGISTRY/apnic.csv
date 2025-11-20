@@ -255,7 +255,6 @@ apnic,SG,4844,1,20010925,allocated
 apnic,TW,4845,1,20010925,allocated
 apnic,CN,4847,1,19960910,allocated
 apnic,HK,4848,1,19951015,allocated
-apnic,HK,4849,1,19960219,allocated
 apnic,MN,4850,1,20060418,allocated
 apnic,AU,4851,1,20050111,allocated
 apnic,AU,4852,1,19960731,allocated
@@ -3464,7 +3463,6 @@ apnic,NZ,55746,2,20100901,allocated
 apnic,JP,55748,1,20100902,allocated
 apnic,HK,55750,1,20100907,allocated
 apnic,AU,55752,1,20100907,allocated
-apnic,AU,55754,1,20100909,allocated
 apnic,SG,55755,1,20100909,allocated
 apnic,IN,55756,1,20100910,allocated
 apnic,IN,55757,1,20100910,allocated
@@ -9159,6 +9157,7 @@ apnic,BD,139326,1,20190718,allocated
 apnic,HK,139327,1,20251017,allocated
 apnic,ID,139328,1,20250716,allocated
 apnic,TH,139329,1,20211230,allocated
+apnic,BD,139330,1,20251119,allocated
 apnic,IN,139331,1,20190722,allocated
 apnic,MY,139332,1,20190722,allocated
 apnic,PH,139333,1,20190722,allocated
@@ -10273,7 +10272,9 @@ apnic,IN,141472,1,20201205,allocated
 apnic,BD,141473,1,20201206,allocated
 apnic,BD,141474,1,20201207,allocated
 apnic,HK,141475,1,20201207,allocated
-apnic,IN,141476,100,20201217,allocated
+apnic,IN,141476,42,20201217,allocated
+apnic,IN,141518,1,20201217,allocated
+apnic,IN,141519,57,20201217,allocated
 apnic,ID,141576,100,20201218,allocated
 apnic,PH,141676,1,20210119,allocated
 apnic,PH,141677,1,20240616,allocated
@@ -11874,7 +11875,6 @@ apnic,PH,151652,1,20230807,allocated
 apnic,PH,151653,1,20230807,allocated
 apnic,KH,151654,1,20230807,allocated
 apnic,IN,151656,1,20240809,allocated
-apnic,MM,151658,1,20230808,allocated
 apnic,PK,151659,1,20230808,allocated
 apnic,AU,151660,1,20230809,allocated
 apnic,IN,151661,1,20230809,allocated
@@ -13283,3 +13283,8 @@ apnic,BD,154377,1,20251118,allocated
 apnic,IN,154378,1,20251118,allocated
 apnic,PK,154379,1,20251118,allocated
 apnic,IN,154380,1,20251118,allocated
+apnic,TH,154381,1,20251119,allocated
+apnic,IN,154382,1,20251120,allocated
+apnic,BD,154383,1,20251120,allocated
+apnic,IN,154384,1,20251120,allocated
+apnic,ID,154385,1,20251120,allocated
