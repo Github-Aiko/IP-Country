@@ -26258,11 +26258,9 @@ ES,2a00:7b00::,29,ipv6
 ES,2a00:7e60::,32,ipv6
 ES,2a00:7f00::,32,ipv6
 ES,2a00:83e0::,32,ipv6
-ES,2a00:84e0::,32,ipv6
 ES,2a00:8a80::,29,ipv6
 ES,2a00:8cc0::,32,ipv6
 ES,2a00:8e20::,32,ipv6
-ES,2a00:91a0::,32,ipv6
 ES,2a00:93c0::,32,ipv6
 ES,2a00:9440::,32,ipv6
 ES,2a00:99c0::,32,ipv6
@@ -26385,7 +26383,6 @@ ES,2a02:5100::,32,ipv6
 ES,2a02:52e0::,32,ipv6
 ES,2a02:5540::,32,ipv6
 ES,2a02:5b00::,32,ipv6
-ES,2a02:5bc0::,32,ipv6
 ES,2a02:5dc0::,32,ipv6
 ES,2a02:5ea0::,32,ipv6
 ES,2a02:5fc0::,32,ipv6
@@ -26666,7 +26663,6 @@ ES,2a09:c100::,32,ipv6
 ES,2a09:c5c0::,29,ipv6
 ES,2a09:c740::,29,ipv6
 ES,2a09:cc40::,29,ipv6
-ES,2a09:cf40::,29,ipv6
 ES,2a09:d940::,29,ipv6
 ES,2a09:dd40::,29,ipv6
 ES,2a09:eac0::,29,ipv6
@@ -26691,7 +26687,6 @@ ES,2a0a:1640::,29,ipv6
 ES,2a0a:1680::,29,ipv6
 ES,2a0a:1d40::,32,ipv6
 ES,2a0a:1e80::,29,ipv6
-ES,2a0a:3000::,32,ipv6
 ES,2a0a:3580::,29,ipv6
 ES,2a0a:3ac0::,29,ipv6
 ES,2a0a:3b40::,29,ipv6
@@ -26848,7 +26843,6 @@ ES,2a0c:b580::,29,ipv6
 ES,2a0c:ba80::,29,ipv6
 ES,2a0c:c340::,29,ipv6
 ES,2a0c:c780::,29,ipv6
-ES,2a0c:d140::,29,ipv6
 ES,2a0c:d1c0::,29,ipv6
 ES,2a0c:e200::,29,ipv6
 ES,2a0c:edc0::,29,ipv6
@@ -26888,7 +26882,6 @@ ES,2a0d:a5c0::,29,ipv6
 ES,2a0d:a900::,29,ipv6
 ES,2a0d:aec0::,29,ipv6
 ES,2a0d:b440::,29,ipv6
-ES,2a0d:b640::,29,ipv6
 ES,2a0d:bf00::,29,ipv6
 ES,2a0d:c240::,29,ipv6
 ES,2a0d:c540::,29,ipv6
@@ -26932,7 +26925,6 @@ ES,2a0f:1880::,29,ipv6
 ES,2a0f:2fc0::,29,ipv6
 ES,2a0f:3a40::,29,ipv6
 ES,2a0f:4200::,29,ipv6
-ES,2a0f:4c40::,29,ipv6
 ES,2a0f:4ec0::,29,ipv6
 ES,2a0f:4f00::,29,ipv6
 ES,2a0f:5400::,29,ipv6
@@ -26969,7 +26961,6 @@ ES,2a10:4e80::,29,ipv6
 ES,2a10:5100::,29,ipv6
 ES,2a10:5280::,29,ipv6
 ES,2a10:5d80::,29,ipv6
-ES,2a10:5f40::,32,ipv6
 ES,2a10:64c0::,32,ipv6
 ES,2a10:6fc0::,29,ipv6
 ES,2a10:7dc0::,29,ipv6
@@ -27825,6 +27816,7 @@ FR,2a01:e080::,29,ipv6
 FR,2a01:e3c0::,29,ipv6
 FR,2a01:e6c0::,29,ipv6
 FR,2a01:ea80::,29,ipv6
+FR,2a01:f5c0::,32,ipv6
 FR,2a01:f7c0::,29,ipv6
 FR,2a01:f9c0::,29,ipv6
 FR,2a01:fcc0::,29,ipv6
@@ -29966,7 +29958,6 @@ GB,2a05:aa40::,29,ipv6
 GB,2a05:ab00::,29,ipv6
 GB,2a05:ab40::,29,ipv6
 GB,2a05:ac00::,29,ipv6
-GB,2a05:b0c0::,29,ipv6
 GB,2a05:b100::,29,ipv6
 GB,2a05:b140::,30,ipv6
 GB,2a05:b280::,29,ipv6
@@ -30327,7 +30318,6 @@ GB,2a0b:9780::,29,ipv6
 GB,2a0b:9b00::,29,ipv6
 GB,2a0b:9f40::,29,ipv6
 GB,2a0b:a580::,29,ipv6
-GB,2a0b:a780::,29,ipv6
 GB,2a0b:a800::,29,ipv6
 GB,2a0b:aa40::,32,ipv6
 GB,2a0b:aec0::,29,ipv6
@@ -30696,6 +30686,7 @@ GB,2a11:5700::,29,ipv6
 GB,2a11:60c0::,29,ipv6
 GB,2a11:75c0::,29,ipv6
 GB,2a11:7840::,29,ipv6
+GB,2a11:7b40::,29,ipv6
 GB,2a11:9840::,29,ipv6
 GB,2a11:9c00::,29,ipv6
 GB,2a11:9d00::,29,ipv6
@@ -45378,7 +45369,6 @@ NL,2a0f:a40::,29,ipv6
 NL,2a0f:f40::,29,ipv6
 NL,2a0f:fc0::,29,ipv6
 NL,2a0f:11c0::,29,ipv6
-NL,2a0f:1500::,29,ipv6
 NL,2a0f:15c0::,29,ipv6
 NL,2a0f:1bc0::,29,ipv6
 NL,2a0f:2000::,29,ipv6
@@ -48534,6 +48524,7 @@ PL,2a05:8580::,29,ipv6
 PL,2a05:8d40::,29,ipv6
 PL,2a05:9680::,29,ipv6
 PL,2a05:a500::,29,ipv6
+PL,2a05:b0c0::,29,ipv6
 PL,2a05:d680::,29,ipv6
 PL,2a05:d6c0::,29,ipv6
 PL,2a05:d8c0::,29,ipv6
@@ -48681,6 +48672,7 @@ PL,2a0b:8240::,29,ipv6
 PL,2a0b:9d00::,29,ipv6
 PL,2a0b:a340::,29,ipv6
 PL,2a0b:a6c0::,29,ipv6
+PL,2a0b:a780::,29,ipv6
 PL,2a0b:bb80::,32,ipv6
 PL,2a0b:c280::,29,ipv6
 PL,2a0b:ca80::,32,ipv6
@@ -48743,6 +48735,7 @@ PL,2a0d:3100::,29,ipv6
 PL,2a0d:3280::,29,ipv6
 PL,2a0d:3500::,29,ipv6
 PL,2a0d:3a80::,29,ipv6
+PL,2a0d:4140::,29,ipv6
 PL,2a0d:47c0::,29,ipv6
 PL,2a0d:4980::,32,ipv6
 PL,2a0d:4a80::,29,ipv6
@@ -49920,8 +49913,6 @@ RU,2001:67c:28e4::,48,ipv6
 RU,2001:67c:290c::,48,ipv6
 RU,2001:67c:2940::,48,ipv6
 RU,2001:67c:2954::,48,ipv6
-RU,2001:67c:29ac::,48,ipv6
-RU,2001:67c:29b0::,47,ipv6
 RU,2001:67c:29b8::,48,ipv6
 RU,2001:67c:29c8::,48,ipv6
 RU,2001:67c:2a48::,48,ipv6
@@ -51624,6 +51615,7 @@ RU,2a11:8500::,29,ipv6
 RU,2a11:85c0::,29,ipv6
 RU,2a11:8600::,29,ipv6
 RU,2a11:8780::,29,ipv6
+RU,2a11:87c0::,29,ipv6
 RU,2a11:8940::,29,ipv6
 RU,2a11:8f80::,29,ipv6
 RU,2a11:91c0::,29,ipv6
@@ -55185,7 +55177,6 @@ TR,2a0a:fb80::,29,ipv6
 TR,2a0b:4c0::,29,ipv6
 TR,2a0b:940::,29,ipv6
 TR,2a0b:f40::,29,ipv6
-TR,2a0b:1140::,29,ipv6
 TR,2a0b:1680::,32,ipv6
 TR,2a0b:2240::,29,ipv6
 TR,2a0b:24c0::,29,ipv6
