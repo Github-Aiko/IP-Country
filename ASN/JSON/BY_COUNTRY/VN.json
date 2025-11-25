@@ -32,6 +32,30 @@
     "Status": "allocated"
   },
   {
+    "Registry": "arin",
+    "Country": "VN",
+    "ASN": "22553",
+    "Value": "1",
+    "Date": "20241114",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "VN",
+    "ASN": "22640",
+    "Value": "1",
+    "Date": "20241101",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "VN",
+    "ASN": "23378",
+    "Value": "1",
+    "Date": "20251028",
+    "Status": "assigned"
+  },
+  {
     "Registry": "apnic",
     "Country": "VN",
     "ASN": "23707",
@@ -824,6 +848,14 @@
     "Status": "allocated"
   },
   {
+    "Registry": "apnic",
+    "Country": "VN",
+    "ASN": "154388",
+    "Value": "2",
+    "Date": "20251125",
+    "Status": "allocated"
+  },
+  {
     "Registry": "ripencc",
     "Country": "VN",
     "ASN": "200250",
@@ -890,9 +922,25 @@
   {
     "Registry": "arin",
     "Country": "VN",
+    "ASN": "398047",
+    "Value": "1",
+    "Date": "20241120",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "VN",
     "ASN": "401580",
     "Value": "1",
     "Date": "20250108",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "VN",
+    "ASN": "401825",
+    "Value": "1",
+    "Date": "20250709",
     "Status": "assigned"
   }
 ]
