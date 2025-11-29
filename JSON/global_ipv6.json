@@ -103447,12 +103447,6 @@
   },
   {
     "Country": "CH",
-    "IP": "2a02:7420::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CH",
     "IP": "2a02:7b80::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -169867,12 +169861,6 @@
   },
   {
     "Country": "FR",
-    "IP": "2a09:44c0::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "FR",
     "IP": "2a09:45c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -176953,12 +176941,6 @@
   },
   {
     "Country": "GB",
-    "IP": "2a02:98::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
     "IP": "2a02:298::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -180098,12 +180080,6 @@
   {
     "Country": "GB",
     "IP": "2a06:2a40::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
-    "IP": "2a06:2b00::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
@@ -185119,12 +185095,6 @@
   },
   {
     "Country": "GB",
-    "IP": "2a14:6040::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
     "IP": "2a14:6680::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -186500,6 +186470,12 @@
   {
     "Country": "GR",
     "IP": "2001:678:bf0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GR",
+    "IP": "2001:678:1164::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -264463,6 +264439,12 @@
   },
   {
     "Country": "NL",
+    "IP": "2001:678:1168::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "NL",
     "IP": "2001:67c:18::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -332389,12 +332371,6 @@
   },
   {
     "Country": "TR",
-    "IP": "2a11:7c80::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "TR",
     "IP": "2a11:8200::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -337568,12 +337544,6 @@
   {
     "Country": "UA",
     "IP": "2a06:7300::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "UA",
-    "IP": "2a06:8c80::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
