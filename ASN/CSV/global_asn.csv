@@ -2128,6 +2128,7 @@ apnic,AU,2823,1,20020801,allocated
 arin,US,2824,1,19930817,assigned
 arin,US,2825,1,19930817,assigned
 arin,US,2826,1,19930819,assigned
+arin,CA,2827,1,20251201,assigned
 arin,US,2828,1,20011219,assigned
 arin,US,2829,1,19930820,assigned
 ripencc,NL,2830,1,19931125,allocated
@@ -8290,7 +8291,6 @@ arin,US,11165,1,19980504,assigned
 arin,US,11166,1,19980504,assigned
 arin,US,11167,1,20171211,assigned
 arin,US,11168,1,20050623,assigned
-arin,US,11169,1,20090126,assigned
 arin,US,11170,1,20050505,assigned
 arin,US,11171,1,19980505,assigned
 lacnic,MX,11172,1,19980505,allocated
@@ -53443,6 +53443,7 @@ apnic,ID,133335,30,20140205,allocated
 apnic,NZ,133366,1,20140207,allocated
 apnic,IN,133367,1,20241005,allocated
 apnic,BD,133368,1,20220615,allocated
+apnic,PK,133369,1,20251202,allocated
 apnic,NZ,133370,1,20140212,allocated
 apnic,HK,133372,1,20140212,allocated
 apnic,CN,133373,1,20140526,allocated
@@ -53717,6 +53718,7 @@ apnic,CN,133774,3,20141028,allocated
 apnic,HK,133777,1,20141031,allocated
 apnic,PH,133778,1,20141103,allocated
 apnic,HK,133779,1,20141103,allocated
+apnic,JP,133780,1,20251202,allocated
 apnic,AU,133781,1,20141104,allocated
 apnic,JP,133782,1,20141105,allocated
 apnic,HK,133783,1,20141106,allocated
@@ -57834,7 +57836,6 @@ apnic,PH,141013,1,20200819,allocated
 apnic,IN,141014,1,20200819,allocated
 apnic,MM,141015,1,20200819,allocated
 apnic,PH,141016,1,20200820,allocated
-apnic,CN,141017,1,20200820,allocated
 apnic,IN,141018,1,20200820,allocated
 apnic,IN,141019,1,20200820,allocated
 apnic,PK,141020,1,20200821,allocated
@@ -79928,6 +79929,7 @@ lacnic,BR,262940,1,20130618,allocated
 lacnic,BR,262942,1,20130618,allocated
 lacnic,MX,262944,1,20130419,allocated
 lacnic,BR,262945,1,20130618,allocated
+lacnic,BR,262947,1,20130619,allocated
 lacnic,BR,262948,1,20130619,allocated
 lacnic,BR,262949,1,20130620,allocated
 lacnic,BR,262952,1,20130625,allocated
@@ -89972,6 +89974,8 @@ lacnic,NI,274264,1,20251127,allocated
 lacnic,CO,274265,1,20251127,allocated
 lacnic,DO,274266,1,20251128,allocated
 lacnic,DO,274267,1,20251128,allocated
+lacnic,CO,274268,1,20251201,allocated
+lacnic,EC,274269,1,20251201,allocated
 lacnic,BR,274333,1,20251030,allocated
 lacnic,BR,274334,1,20251030,allocated
 lacnic,BR,274335,1,20251104,allocated
@@ -90008,6 +90012,8 @@ lacnic,BR,274365,1,20251124,allocated
 lacnic,BR,274366,1,20251125,allocated
 lacnic,BR,274368,1,20251126,allocated
 lacnic,BR,274369,1,20251127,allocated
+lacnic,BR,274370,1,20251201,allocated
+lacnic,BR,274371,1,20251201,allocated
 lacnic,BR,274461,1,20250703,allocated
 lacnic,BR,274462,1,20250703,allocated
 lacnic,BR,274463,1,20250703,allocated
