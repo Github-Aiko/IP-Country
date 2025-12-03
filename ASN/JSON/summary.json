@@ -1,8 +1,8 @@
 {
-  "total_asns": 100254,
+  "total_asns": 100261,
   "by_country": {
-    "US": 29416,
-    "BR": 9077,
+    "US": 29420,
+    "BR": 9078,
     "RU": 5732,
     "DE": 3137,
     "GB": 3109,
@@ -12,7 +12,7 @@
     "UA": 2001,
     "BD": 1921,
     "FR": 1849,
-    "NL": 1582,
+    "NL": 1581,
     "AR": 1322,
     "HK": 1296,
     "IT": 1295,
@@ -28,16 +28,16 @@
     "AT": 752,
     "MX": 749,
     "BG": 738,
-    "SG": 704,
+    "SG": 705,
     "CZ": 703,
     "NZ": 701,
     "PH": 623,
     "TH": 597,
     "CO": 541,
     "DK": 461,
+    "ID": 437,
     "CL": 436,
-    "ID": 436,
-    "PK": 431,
+    "PK": 432,
     "EU": 405,
     "NO": 398,
     "MY": 387,
@@ -244,14 +244,14 @@
   },
   "by_registry": {
     "afrinic": 2650,
-    "apnic": 13298,
-    "arin": 31304,
-    "lacnic": 13962,
+    "apnic": 13301,
+    "arin": 31307,
+    "lacnic": 13963,
     "ripencc": 39040
   },
   "by_status": {
-    "allocated": 68950,
-    "assigned": 31304
+    "allocated": 68954,
+    "assigned": 31307
   },
   "countries_count": 240,
   "registries_count": 5
