@@ -41305,6 +41305,14 @@
   },
   {
     "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "132544",
+    "Value": "1",
+    "Date": "20160829",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
     "Country": "TH",
     "ASN": "132545",
     "Value": "1",
@@ -43645,6 +43653,14 @@
     "ASN": "133045",
     "Value": "1",
     "Date": "20160912",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "AU",
+    "ASN": "133046",
+    "Value": "1",
+    "Date": "20130815",
     "Status": "allocated"
   },
   {
@@ -85187,7 +85203,7 @@
     "Registry": "apnic",
     "Country": "NL",
     "ASN": "142597",
-    "Value": "2",
+    "Value": "1",
     "Date": "20210728",
     "Status": "allocated"
   },
@@ -88133,14 +88149,6 @@
     "ASN": "149433",
     "Value": "1",
     "Date": "20220111",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "NL",
-    "ASN": "149434",
-    "Value": "2",
-    "Date": "20220112",
     "Status": "allocated"
   },
   {
@@ -106405,6 +106413,54 @@
     "ASN": "154397",
     "Value": "1",
     "Date": "20251203",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "PH",
+    "ASN": "154398",
+    "Value": "1",
+    "Date": "20251203",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "MY",
+    "ASN": "154399",
+    "Value": "1",
+    "Date": "20251204",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "ID",
+    "ASN": "154400",
+    "Value": "2",
+    "Date": "20251204",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "CN",
+    "ASN": "154402",
+    "Value": "1",
+    "Date": "20251204",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "154403",
+    "Value": "1",
+    "Date": "20251204",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "PK",
+    "ASN": "154404",
+    "Value": "1",
+    "Date": "20251204",
     "Status": "allocated"
   }
 ]
