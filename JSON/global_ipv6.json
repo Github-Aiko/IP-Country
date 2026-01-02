@@ -191161,12 +191161,6 @@
   },
   {
     "Country": "HK",
-    "IP": "2404:2100::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "HK",
     "IP": "2404:2480::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -205040,6 +205034,12 @@
   {
     "Country": "ID",
     "IP": "2001:df6:8a00::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df6:8ac0::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -346617,6 +346617,12 @@
     "Country": "US",
     "IP": "2602:81c:e000::",
     "PrefixLength": "44",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f479::",
+    "PrefixLength": "36",
     "Version": "ipv6"
   },
   {
