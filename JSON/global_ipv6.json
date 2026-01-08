@@ -131995,12 +131995,6 @@
   },
   {
     "Country": "CZ",
-    "IP": "2a0d:8680::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CZ",
     "IP": "2a0d:8f40::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -156674,6 +156668,18 @@
   {
     "Country": "EE",
     "IP": "2a05:4280::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "EE",
+    "IP": "2a05:cfc0::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "EE",
+    "IP": "2a06:9c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
@@ -312056,6 +312062,12 @@
   {
     "Country": "SA",
     "IP": "2a05:e940::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SA",
+    "IP": "2a06:2e00::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
