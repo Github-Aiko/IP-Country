@@ -189475,12 +189475,6 @@
   },
   {
     "Country": "HK",
-    "IP": "2400:1e80::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "HK",
     "IP": "2400:3520::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -205178,6 +205172,12 @@
   {
     "Country": "ID",
     "IP": "2001:df6:8e00::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df6:9140::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -221893,7 +221893,25 @@
   },
   {
     "Country": "IN",
+    "IP": "2001:df6:9040::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
+    "IP": "2001:df6:90c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
     "IP": "2001:df6:9100::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
+    "IP": "2001:df6:91c0::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -329250,6 +329268,12 @@
     "Version": "ipv6"
   },
   {
+    "Country": "TH",
+    "IP": "2602:f8f8::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
     "Country": "TJ",
     "IP": "2001:678:650::",
     "PrefixLength": "48",
@@ -334628,6 +334652,12 @@
   {
     "Country": "TW",
     "IP": "2402:43e0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "TW",
+    "IP": "2402:4760::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -353029,12 +353059,6 @@
   },
   {
     "Country": "US",
-    "IP": "2602:f8f8::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
     "IP": "2602:f8f9::",
     "PrefixLength": "40",
     "Version": "ipv6"
@@ -363104,6 +363128,12 @@
   {
     "Country": "US",
     "IP": "2604:4640::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2604:46c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
