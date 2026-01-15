@@ -94819,6 +94819,12 @@
   },
   {
     "Country": "CA",
+    "IP": "2001:678:1184::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CA",
     "IP": "2001:67c:d0c::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -108944,12 +108950,6 @@
   {
     "Country": "CN",
     "IP": "2001:678:53c::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CN",
-    "IP": "2001:678:1184::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -325183,6 +325183,12 @@
   },
   {
     "Country": "SG",
+    "IP": "2a02:f440::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SG",
     "IP": "2a04:dc80::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -329385,6 +329391,12 @@
     "Country": "TJ",
     "IP": "2a04:2c0::",
     "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "TJ",
+    "IP": "2a04:6f40::",
+    "PrefixLength": "29",
     "Version": "ipv6"
   },
   {
