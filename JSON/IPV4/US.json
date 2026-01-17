@@ -28142,7 +28142,19 @@
   {
     "Country": "US",
     "IP": "47.16.0.0",
-    "PrefixLength": "14",
+    "PrefixLength": "15",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "47.18.0.0",
+    "PrefixLength": "16",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "47.19.0.0",
+    "PrefixLength": "16",
     "Version": "ipv4"
   },
   {
@@ -125528,6 +125540,12 @@
   {
     "Country": "US",
     "IP": "142.248.252.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "142.248.253.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
