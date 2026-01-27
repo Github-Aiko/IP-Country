@@ -63,6 +63,7 @@ AE,2a05:9340::,29,ipv6
 AE,2a05:b440::,29,ipv6
 AE,2a05:bd80::,29,ipv6
 AE,2a05:c500::,29,ipv6
+AE,2a05:ff80::,29,ipv6
 AE,2a06:c40::,29,ipv6
 AE,2a06:1ec0::,29,ipv6
 AE,2a06:2b80::,29,ipv6
@@ -24685,7 +24686,6 @@ DE,2a0e:a6c0::,29,ipv6
 DE,2a0e:a700::,29,ipv6
 DE,2a0e:aa80::,29,ipv6
 DE,2a0e:ab00::,29,ipv6
-DE,2a0e:ad80::,29,ipv6
 DE,2a0e:afc0::,29,ipv6
 DE,2a0e:b180::,29,ipv6
 DE,2a0e:b500::,29,ipv6
@@ -24732,7 +24732,6 @@ DE,2a0e:ff40::,29,ipv6
 DE,2a0f:100::,29,ipv6
 DE,2a0f:280::,29,ipv6
 DE,2a0f:340::,29,ipv6
-DE,2a0f:4c0::,29,ipv6
 DE,2a0f:580::,29,ipv6
 DE,2a0f:b80::,29,ipv6
 DE,2a0f:bc0::,29,ipv6
@@ -49799,6 +49798,7 @@ RS,2a07:eac0::,31,ipv6
 RS,2a09:ab00::,29,ipv6
 RS,2a09:ab80::,29,ipv6
 RS,2a0b:3b80::,29,ipv6
+RS,2a0b:4040::,29,ipv6
 RS,2a0b:9200::,32,ipv6
 RS,2a0c:e00::,29,ipv6
 RS,2a0c:6300::,29,ipv6
@@ -55346,6 +55346,7 @@ TR,2a0b:2240::,29,ipv6
 TR,2a0b:24c0::,29,ipv6
 TR,2a0b:2780::,29,ipv6
 TR,2a0b:4980::,29,ipv6
+TR,2a0b:5180::,29,ipv6
 TR,2a0b:5280::,29,ipv6
 TR,2a0b:5380::,29,ipv6
 TR,2a0b:5540::,29,ipv6
