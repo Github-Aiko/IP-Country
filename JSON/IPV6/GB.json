@@ -55,6 +55,12 @@
   },
   {
     "Country": "GB",
+    "IP": "2001:678:254::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GB",
     "IP": "2001:678:268::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -380,12 +386,6 @@
   {
     "Country": "GB",
     "IP": "2001:678:100c::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
-    "IP": "2001:678:1018::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
