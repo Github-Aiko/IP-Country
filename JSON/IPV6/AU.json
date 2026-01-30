@@ -2359,12 +2359,6 @@
   },
   {
     "Country": "AU",
-    "IP": "2001:df2:f480::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "AU",
     "IP": "2001:df2:f500::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -3482,6 +3476,12 @@
   {
     "Country": "AU",
     "IP": "2001:df5:27c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AU",
+    "IP": "2001:df5:27c1::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
