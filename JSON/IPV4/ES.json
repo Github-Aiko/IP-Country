@@ -3932,7 +3932,25 @@
   {
     "Country": "ES",
     "IP": "81.172.32.0",
-    "PrefixLength": "20",
+    "PrefixLength": "21",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "ES",
+    "IP": "81.172.40.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "ES",
+    "IP": "81.172.44.0",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "ES",
+    "IP": "81.172.46.0",
+    "PrefixLength": "23",
     "Version": "ipv4"
   },
   {
@@ -3951,12 +3969,6 @@
     "Country": "ES",
     "IP": "81.172.60.0",
     "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "ES",
-    "IP": "81.172.64.0",
-    "PrefixLength": "23",
     "Version": "ipv4"
   },
   {

@@ -571,6 +571,12 @@
   },
   {
     "Country": "DE",
+    "IP": "2001:678:778::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "DE",
     "IP": "2001:678:78c::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -1094,12 +1100,6 @@
   {
     "Country": "DE",
     "IP": "2001:678:d7c::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "DE",
-    "IP": "2001:678:d84::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
