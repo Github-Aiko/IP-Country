@@ -13195,12 +13195,6 @@
   },
   {
     "Country": "US",
-    "IP": "2602:f8f4::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
     "IP": "2602:f8f5::",
     "PrefixLength": "36",
     "Version": "ipv6"
@@ -13214,18 +13208,6 @@
   {
     "Country": "US",
     "IP": "2602:f8f9::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f8fa::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f8fb::",
     "PrefixLength": "40",
     "Version": "ipv6"
   },
@@ -13256,12 +13238,6 @@
   {
     "Country": "US",
     "IP": "2602:f901::",
-    "PrefixLength": "40",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f902::",
     "PrefixLength": "40",
     "Version": "ipv6"
   },
@@ -20755,6 +20731,12 @@
   },
   {
     "Country": "US",
+    "IP": "2602:ff94::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:ff95::",
     "PrefixLength": "36",
     "Version": "ipv6"
@@ -20775,6 +20757,12 @@
     "Country": "US",
     "IP": "2602:ff9b::",
     "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:ff9e::",
+    "PrefixLength": "40",
     "Version": "ipv6"
   },
   {
@@ -20905,6 +20893,12 @@
   },
   {
     "Country": "US",
+    "IP": "2602:ffbf::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:ffc0::",
     "PrefixLength": "36",
     "Version": "ipv6"
@@ -21020,6 +21014,12 @@
   {
     "Country": "US",
     "IP": "2602:ffdc::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:ffdd::",
     "PrefixLength": "36",
     "Version": "ipv6"
   },
@@ -26258,6 +26258,12 @@
   {
     "Country": "US",
     "IP": "2604:de40::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2604:de80::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },

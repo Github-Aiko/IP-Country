@@ -2198,18 +2198,14 @@ US,2602:f8ee::,40,ipv6
 US,2602:f8f0::,36,ipv6
 US,2602:f8f2::,40,ipv6
 US,2602:f8f3::,40,ipv6
-US,2602:f8f4::,40,ipv6
 US,2602:f8f5::,36,ipv6
 US,2602:f8f6::,40,ipv6
 US,2602:f8f9::,40,ipv6
-US,2602:f8fa::,40,ipv6
-US,2602:f8fb::,40,ipv6
 US,2602:f8fc::,36,ipv6
 US,2602:f8fd::,40,ipv6
 US,2602:f8fe::,40,ipv6
 US,2602:f900::,40,ipv6
 US,2602:f901::,40,ipv6
-US,2602:f902::,40,ipv6
 US,2602:f903::,40,ipv6
 US,2602:f904::,40,ipv6
 US,2602:f906::,36,ipv6
@@ -3458,10 +3454,12 @@ US,2602:ff8f::,36,ipv6
 US,2602:ff90::,36,ipv6
 US,2602:ff91::,36,ipv6
 US,2602:ff92::,36,ipv6
+US,2602:ff94::,40,ipv6
 US,2602:ff95::,36,ipv6
 US,2602:ff96::,32,ipv6
 US,2602:ff99::,32,ipv6
 US,2602:ff9b::,36,ipv6
+US,2602:ff9e::,40,ipv6
 US,2602:ffa2::,36,ipv6
 US,2602:ffa3::,36,ipv6
 US,2602:ffa4::,36,ipv6
@@ -3483,6 +3481,7 @@ US,2602:ffba::,36,ipv6
 US,2602:ffbb::,36,ipv6
 US,2602:ffbc::,36,ipv6
 US,2602:ffbd::,36,ipv6
+US,2602:ffbf::,36,ipv6
 US,2602:ffc0::,36,ipv6
 US,2602:ffc2::,36,ipv6
 US,2602:ffc3::,36,ipv6
@@ -3503,6 +3502,7 @@ US,2602:ffd8::,36,ipv6
 US,2602:ffd9::,36,ipv6
 US,2602:ffdb::,36,ipv6
 US,2602:ffdc::,36,ipv6
+US,2602:ffdd::,36,ipv6
 US,2602:ffde::,36,ipv6
 US,2602:ffdf::,36,ipv6
 US,2602:ffe0::,36,ipv6
@@ -4376,6 +4376,7 @@ US,2604:dd80::,32,ipv6
 US,2604:ddc0::,32,ipv6
 US,2604:de00::,36,ipv6
 US,2604:de40::,32,ipv6
+US,2604:de80::,32,ipv6
 US,2604:dec0::,32,ipv6
 US,2604:df40::,32,ipv6
 US,2604:dfc0::,32,ipv6
