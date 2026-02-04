@@ -4171,12 +4171,6 @@
   },
   {
     "Country": "GB",
-    "IP": "45.151.180.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "GB",
     "IP": "45.152.0.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -9020,7 +9014,19 @@
   {
     "Country": "GB",
     "IP": "80.252.124.0",
-    "PrefixLength": "22",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "GB",
+    "IP": "80.252.125.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "GB",
+    "IP": "80.252.126.0",
+    "PrefixLength": "23",
     "Version": "ipv4"
   },
   {
@@ -11336,12 +11342,6 @@
   {
     "Country": "GB",
     "IP": "85.208.196.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "GB",
-    "IP": "85.208.212.0",
     "PrefixLength": "22",
     "Version": "ipv4"
   },
@@ -31441,6 +31441,12 @@
   },
   {
     "Country": "GB",
+    "IP": "185.135.198.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "GB",
     "IP": "185.135.208.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -34856,12 +34862,6 @@
   {
     "Country": "GB",
     "IP": "185.227.60.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "GB",
-    "IP": "185.227.152.0",
     "PrefixLength": "22",
     "Version": "ipv4"
   },
@@ -46766,13 +46766,13 @@
   {
     "Country": "GB",
     "IP": "194.169.128.0",
-    "PrefixLength": "20",
+    "PrefixLength": "21",
     "Version": "ipv4"
   },
   {
     "Country": "GB",
-    "IP": "194.169.139.0",
-    "PrefixLength": "20",
+    "IP": "194.169.140.0",
+    "PrefixLength": "21",
     "Version": "ipv4"
   },
   {
