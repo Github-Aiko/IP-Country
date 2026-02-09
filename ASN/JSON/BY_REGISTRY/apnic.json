@@ -76145,14 +76145,6 @@
   },
   {
     "Registry": "apnic",
-    "Country": "AU",
-    "ASN": "139897",
-    "Value": "1",
-    "Date": "20191218",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
     "Country": "PG",
     "ASN": "139898",
     "Value": "1",
@@ -77173,6 +77165,14 @@
     "ASN": "140229",
     "Value": "1",
     "Date": "20200223",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "140230",
+    "Value": "1",
+    "Date": "20200224",
     "Status": "allocated"
   },
   {
@@ -89941,6 +89941,14 @@
     "ASN": "149782",
     "Value": "1",
     "Date": "20220412",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "149783",
+    "Value": "1",
+    "Date": "20260209",
     "Status": "allocated"
   },
   {
@@ -107749,6 +107757,22 @@
     "ASN": "154489",
     "Value": "1",
     "Date": "20260206",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "IN",
+    "ASN": "154490",
+    "Value": "1",
+    "Date": "20260209",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "VN",
+    "ASN": "154491",
+    "Value": "1",
+    "Date": "20260209",
     "Status": "allocated"
   }
 ]
