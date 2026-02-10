@@ -12374,7 +12374,25 @@
   {
     "Country": "HK",
     "IP": "154.8.64.0",
-    "PrefixLength": "18",
+    "PrefixLength": "19",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "HK",
+    "IP": "154.8.96.0",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "HK",
+    "IP": "154.8.112.0",
+    "PrefixLength": "21",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "HK",
+    "IP": "154.8.124.0",
+    "PrefixLength": "22",
     "Version": "ipv4"
   },
   {
@@ -14606,6 +14624,12 @@
   {
     "Country": "HK",
     "IP": "195.248.90.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "HK",
+    "IP": "198.15.31.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
