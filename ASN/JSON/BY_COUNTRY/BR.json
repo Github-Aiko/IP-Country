@@ -10858,14 +10858,6 @@
   {
     "Registry": "ripencc",
     "Country": "BR",
-    "ASN": "215479",
-    "Value": "1",
-    "Date": "20240216",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "BR",
     "ASN": "216089",
     "Value": "1",
     "Date": "20231026",
@@ -23331,14 +23323,6 @@
     "Registry": "lacnic",
     "Country": "BR",
     "ASN": "264536",
-    "Value": "1",
-    "Date": "20141219",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
-    "Country": "BR",
-    "ASN": "264537",
     "Value": "1",
     "Date": "20141219",
     "Status": "allocated"
@@ -72877,6 +72861,14 @@
     "ASN": "275643",
     "Value": "1",
     "Date": "20260206",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
+    "ASN": "275644",
+    "Value": "1",
+    "Date": "20260209",
     "Status": "allocated"
   }
 ]

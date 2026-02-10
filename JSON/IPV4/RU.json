@@ -34831,6 +34831,12 @@
   },
   {
     "Country": "RU",
+    "IP": "136.234.0.0",
+    "PrefixLength": "18",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "RU",
     "IP": "136.234.64.0",
     "PrefixLength": "19",
     "Version": "ipv4"
@@ -35618,7 +35624,13 @@
   {
     "Country": "RU",
     "IP": "157.22.176.0",
-    "PrefixLength": "19",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "RU",
+    "IP": "157.22.192.0",
+    "PrefixLength": "20",
     "Version": "ipv4"
   },
   {
