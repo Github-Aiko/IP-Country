@@ -3979,6 +3979,12 @@
   },
   {
     "Country": "CA",
+    "IP": "64.186.176.0",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
     "IP": "64.187.0.0",
     "PrefixLength": "18",
     "Version": "ipv4"
@@ -6825,6 +6831,12 @@
     "Country": "CA",
     "IP": "68.232.108.0",
     "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "68.235.16.0",
+    "PrefixLength": "20",
     "Version": "ipv4"
   },
   {
@@ -10598,12 +10610,6 @@
   {
     "Country": "CA",
     "IP": "108.59.64.0",
-    "PrefixLength": "20",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "CA",
-    "IP": "108.60.0.0",
     "PrefixLength": "20",
     "Version": "ipv4"
   },
@@ -33422,6 +33428,30 @@
   {
     "Country": "CA",
     "IP": "199.89.139.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "199.89.141.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "199.89.142.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "199.89.143.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "CA",
+    "IP": "199.89.161.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
