@@ -106771,6 +106771,12 @@
   },
   {
     "Country": "CH",
+    "IP": "2a12:62c0::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CH",
     "IP": "2a12:87c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -298075,12 +298081,6 @@
   },
   {
     "Country": "RO",
-    "IP": "2001:67c:fdc::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "RO",
     "IP": "2001:67c:1038::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -338108,6 +338108,12 @@
   {
     "Country": "UA",
     "IP": "2001:67c:a68::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "UA",
+    "IP": "2001:67c:a88::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
