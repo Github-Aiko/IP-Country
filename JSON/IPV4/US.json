@@ -70153,6 +70153,12 @@
   },
   {
     "Country": "US",
+    "IP": "69.161.128.0",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
     "IP": "69.161.160.0",
     "PrefixLength": "19",
     "Version": "ipv4"
@@ -121093,8 +121099,14 @@
   },
   {
     "Country": "US",
-    "IP": "139.100.176.0",
-    "PrefixLength": "17",
+    "IP": "139.100.184.0",
+    "PrefixLength": "21",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "139.100.232.0",
+    "PrefixLength": "21",
     "Version": "ipv4"
   },
   {
