@@ -151,6 +151,12 @@
   },
   {
     "Country": "AE",
+    "IP": "2a00:9aa0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AE",
     "IP": "2a00:bea0::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -150991,6 +150997,12 @@
   },
   {
     "Country": "DE",
+    "IP": "2a13:5fc0::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "DE",
     "IP": "2a13:6140::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -151940,12 +151952,6 @@
   {
     "Country": "DK",
     "IP": "2001:67c:11c0::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "DK",
-    "IP": "2001:67c:127c::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -177363,12 +177369,6 @@
     "Country": "GB",
     "IP": "2a01:388::",
     "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
-    "IP": "2a01:398::",
-    "PrefixLength": "32",
     "Version": "ipv6"
   },
   {
@@ -212384,12 +212384,6 @@
   {
     "Country": "IE",
     "IP": "2a00:8c80::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "IE",
-    "IP": "2a00:9aa0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
