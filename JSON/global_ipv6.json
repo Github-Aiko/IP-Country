@@ -44101,12 +44101,6 @@
   },
   {
     "Country": "BR",
-    "IP": "2801:81:1c0::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
     "IP": "2801:81:1d0::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -44144,6 +44138,12 @@
   {
     "Country": "BR",
     "IP": "2801:81:240::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2801:81:250::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -94399,6 +94399,12 @@
   },
   {
     "Country": "BR",
+    "IP": "2804:9884::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
     "IP": "2a00:aee0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -107630,6 +107636,12 @@
   {
     "Country": "CL",
     "IP": "2801:1a:8000::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CL",
+    "IP": "2801:1a:8400::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
