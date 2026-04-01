@@ -5857,7 +5857,6 @@ ripencc,IT,31403,1,20040506,allocated
 ripencc,GB,31404,1,20040506,allocated
 ripencc,PS,31408,1,20120131,allocated
 ripencc,PL,31409,1,20040510,allocated
-ripencc,IS,31410,1,20040510,allocated
 ripencc,IE,31411,1,20040510,allocated
 ripencc,PL,31412,1,20040510,allocated
 ripencc,PT,31413,1,20040510,allocated
@@ -15076,7 +15075,6 @@ ripencc,GB,50697,1,20100310,allocated
 ripencc,CZ,50698,1,20100310,allocated
 ripencc,AT,50700,1,20100311,allocated
 ripencc,RU,50701,1,20100311,allocated
-ripencc,FR,50702,1,20100311,allocated
 ripencc,RU,50703,1,20100311,allocated
 ripencc,MD,50704,1,20160405,allocated
 ripencc,PL,50705,1,20100311,allocated
@@ -16103,7 +16101,6 @@ ripencc,IL,51825,1,20101111,allocated
 ripencc,SE,51826,1,20230802,allocated
 ripencc,DE,51827,1,20101111,allocated
 ripencc,IR,51828,1,20160215,allocated
-ripencc,IS,51829,1,20101112,allocated
 ripencc,BG,51830,1,20120503,allocated
 ripencc,RU,51831,1,20101112,allocated
 ripencc,KZ,51833,1,20101112,allocated
@@ -16833,7 +16830,6 @@ ripencc,TR,56727,1,20180905,allocated
 ripencc,CH,56728,1,20110505,allocated
 ripencc,RO,56729,1,20110505,allocated
 ripencc,ES,56732,1,20110505,allocated
-ripencc,FR,56733,1,20110505,allocated
 ripencc,SE,56734,1,20110505,allocated
 ripencc,SE,56735,1,20110505,allocated
 ripencc,SE,56736,1,20110505,allocated
@@ -22934,6 +22930,8 @@ ripencc,GB,199462,1,20130114,allocated
 ripencc,RU,199463,1,20130114,allocated
 ripencc,GB,199464,1,20230517,allocated
 ripencc,US,199465,1,20230314,allocated
+ripencc,IT,199466,1,20260401,allocated
+ripencc,IR,199467,1,20260401,allocated
 ripencc,GB,199468,1,20130111,allocated
 ripencc,GE,199469,1,20130111,allocated
 ripencc,SE,199470,1,20130111,allocated
@@ -22945,6 +22943,7 @@ ripencc,PL,199475,1,20130110,allocated
 ripencc,DE,199476,1,20230313,allocated
 ripencc,IT,199477,1,20130110,allocated
 ripencc,ES,199478,1,20130109,allocated
+ripencc,RU,199479,1,20260401,allocated
 ripencc,FI,199480,1,20130109,allocated
 ripencc,GB,199481,1,20130108,allocated
 ripencc,ES,199482,1,20130108,allocated
@@ -22957,13 +22956,18 @@ ripencc,DE,199488,1,20230313,allocated
 ripencc,AZ,199489,1,20230310,allocated
 ripencc,CZ,199490,1,20130104,allocated
 ripencc,UA,199491,1,20130102,allocated
+ripencc,GB,199492,1,20260401,allocated
 ripencc,RS,199493,1,20121231,allocated
 ripencc,PL,199494,1,20121228,allocated
 ripencc,IR,199495,1,20230310,allocated
 ripencc,ES,199496,1,20121224,allocated
 ripencc,RO,199498,1,20130410,allocated
+ripencc,VA,199499,1,20260401,allocated
+ripencc,BE,199500,1,20260401,allocated
+ripencc,GB,199501,1,20260401,allocated
 ripencc,RU,199502,1,20121220,allocated
 ripencc,PL,199503,1,20121220,allocated
+ripencc,IT,199504,1,20260401,allocated
 ripencc,TR,199505,1,20121220,allocated
 ripencc,HK,199506,1,20121220,allocated
 ripencc,GB,199507,1,20121219,allocated
@@ -22973,6 +22977,7 @@ ripencc,PL,199510,1,20121218,allocated
 ripencc,LU,199511,1,20121227,allocated
 ripencc,BG,199512,1,20121217,allocated
 ripencc,RO,199513,1,20121217,allocated
+ripencc,RU,199514,1,20260401,allocated
 ripencc,TR,199515,1,20121213,allocated
 ripencc,GB,199516,1,20121213,allocated
 ripencc,PL,199517,1,20121213,allocated
@@ -22980,15 +22985,18 @@ ripencc,US,199518,1,20230310,allocated
 ripencc,GB,199519,1,20230310,allocated
 ripencc,SE,199520,1,20121212,allocated
 ripencc,RU,199521,1,20121211,allocated
+ripencc,IT,199522,1,20260401,allocated
 ripencc,NL,199523,1,20121210,allocated
 ripencc,LU,199524,1,20121210,allocated
 ripencc,BA,199525,1,20230309,allocated
 ripencc,KW,199526,1,20121206,allocated
 ripencc,LT,199527,1,20121206,allocated
 ripencc,UZ,199528,1,20230309,allocated
+ripencc,LV,199529,1,20260401,allocated
 ripencc,RU,199530,1,20121205,allocated
 ripencc,IT,199532,1,20230309,allocated
 ripencc,CH,199533,1,20230309,allocated
+ripencc,GB,199534,1,20260401,allocated
 ripencc,GB,199535,1,20230306,allocated
 ripencc,IT,199536,1,20121204,allocated
 ripencc,RU,199537,1,20121204,allocated
@@ -23019,7 +23027,7 @@ ripencc,CH,199562,1,20121123,allocated
 ripencc,DE,199563,1,20121123,allocated
 ripencc,SE,199564,1,20121123,allocated
 ripencc,HR,199565,1,20230303,allocated
-ripencc,RU,199566,1,20260331,allocated
+ripencc,PY,199566,1,20260331,allocated
 ripencc,CH,199567,1,20121122,allocated
 ripencc,FR,199568,1,20121122,allocated
 ripencc,GB,199569,1,20121122,allocated
@@ -23156,6 +23164,7 @@ ripencc,DE,199703,1,20230223,allocated
 ripencc,ES,199704,1,20230223,allocated
 ripencc,US,199705,1,20230223,allocated
 ripencc,GB,199706,1,20140228,allocated
+ripencc,HK,199707,1,20260401,allocated
 ripencc,FR,199708,1,20140228,allocated
 ripencc,PL,199709,1,20140228,allocated
 ripencc,GB,199710,1,20140228,allocated
@@ -26239,7 +26248,6 @@ ripencc,BG,202864,1,20160517,allocated
 ripencc,VA,202865,1,20160517,allocated
 ripencc,SE,202866,1,20160517,allocated
 ripencc,GB,202867,1,20160517,allocated
-ripencc,IS,202868,1,20160517,allocated
 ripencc,IT,202870,1,20160517,allocated
 ripencc,RU,202871,1,20160517,allocated
 ripencc,CZ,202872,1,20160517,allocated
@@ -26866,7 +26874,7 @@ ripencc,RS,203512,1,20151221,allocated
 ripencc,SG,203513,1,20251124,allocated
 ripencc,RU,203514,1,20151221,allocated
 ripencc,NO,203515,1,20151221,allocated
-ripencc,TR,203516,1,20251124,allocated
+ripencc,GB,203516,1,20251124,allocated
 ripencc,RU,203517,1,20151221,allocated
 ripencc,AT,203518,1,20220802,allocated
 ripencc,TR,203519,1,20220802,allocated
@@ -29850,6 +29858,7 @@ ripencc,NL,206570,1,20161219,allocated
 ripencc,AT,206571,1,20161219,allocated
 ripencc,RU,206572,1,20161219,allocated
 ripencc,GB,206573,1,20250715,allocated
+ripencc,CN,206574,1,20260401,allocated
 ripencc,HR,206575,1,20200320,allocated
 ripencc,IE,206577,1,20220331,allocated
 ripencc,DE,206578,1,20220331,allocated
@@ -32644,7 +32653,6 @@ ripencc,AZ,209489,1,20251001,allocated
 ripencc,TR,209490,1,20190130,allocated
 ripencc,BA,209491,1,20190130,allocated
 ripencc,ES,209492,1,20190130,allocated
-ripencc,GB,209493,1,20220124,allocated
 ripencc,CH,209494,1,20190130,allocated
 ripencc,NL,209495,1,20190130,allocated
 ripencc,US,209496,1,20190130,allocated
@@ -36996,6 +37004,7 @@ ripencc,CA,214054,1,20241010,allocated
 ripencc,GB,214056,1,20241010,allocated
 ripencc,HR,214057,1,20241010,allocated
 ripencc,TR,214058,1,20241010,allocated
+ripencc,HU,214059,1,20260401,allocated
 ripencc,CH,214060,1,20241009,allocated
 ripencc,US,214061,1,20241009,allocated
 ripencc,RO,214062,1,20241009,allocated
@@ -37108,7 +37117,6 @@ ripencc,QA,214178,1,20240917,allocated
 ripencc,SE,214180,1,20260309,allocated
 ripencc,DE,214181,1,20240917,allocated
 ripencc,CH,214182,1,20250825,allocated
-ripencc,US,214183,1,20240917,allocated
 ripencc,IR,214184,1,20240917,allocated
 ripencc,IS,214185,1,20240916,allocated
 ripencc,RU,214186,1,20240916,allocated
