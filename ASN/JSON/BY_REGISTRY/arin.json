@@ -174977,14 +174977,6 @@
   },
   {
     "Registry": "arin",
-    "Country": "US",
-    "ASN": "55107",
-    "Value": "1",
-    "Date": "20130306",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
     "Country": "CA",
     "ASN": "55108",
     "Value": "1",
@@ -252229,6 +252221,22 @@
     "ASN": "402351",
     "Value": "1",
     "Date": "20260401",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402352",
+    "Value": "1",
+    "Date": "20260402",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402353",
+    "Value": "1",
+    "Date": "20260402",
     "Status": "assigned"
   }
 ]
