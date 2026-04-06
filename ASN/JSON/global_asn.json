@@ -484049,6 +484049,14 @@
   },
   {
     "Registry": "apnic",
+    "Country": "ID",
+    "ASN": "153753",
+    "Value": "1",
+    "Date": "20260406",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
     "Country": "IN",
     "ASN": "153754",
     "Value": "1",
@@ -809217,7 +809225,7 @@
   },
   {
     "Registry": "arin",
-    "Country": "US",
+    "Country": "TH",
     "ASN": "402363",
     "Value": "1",
     "Date": "20260403",
@@ -809229,6 +809237,14 @@
     "ASN": "402364",
     "Value": "1",
     "Date": "20260403",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402365",
+    "Value": "1",
+    "Date": "20260406",
     "Status": "assigned"
   }
 ]
