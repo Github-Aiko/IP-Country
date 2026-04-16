@@ -88081,6 +88081,12 @@
   },
   {
     "Country": "US",
+    "IP": "85.155.168.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
     "IP": "85.155.224.0",
     "PrefixLength": "21",
     "Version": "ipv4"
@@ -398798,7 +398804,13 @@
   {
     "Country": "US",
     "IP": "209.162.204.0",
-    "PrefixLength": "22",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "209.162.207.0",
+    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
