@@ -91434,6 +91434,14 @@
   {
     "Registry": "arin",
     "Country": "US",
+    "ASN": "23431",
+    "Value": "1",
+    "Date": "20061011",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
     "ASN": "23432",
     "Value": "1",
     "Date": "20020318",
@@ -173058,6 +173066,14 @@
   {
     "Registry": "ripencc",
     "Country": "US",
+    "ASN": "198756",
+    "Value": "1",
+    "Date": "20260417",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "US",
     "ASN": "198802",
     "Value": "1",
     "Date": "20260416",
@@ -217474,14 +217490,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "399581",
-    "Value": "1",
-    "Date": "20210419",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "399582",
     "Value": "1",
     "Date": "20210419",
@@ -236730,14 +236738,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "402392",
-    "Value": "1",
-    "Date": "20260410",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "402393",
     "Value": "1",
     "Date": "20260410",
@@ -236803,14 +236803,6 @@
     "Registry": "arin",
     "Country": "US",
     "ASN": "402402",
-    "Value": "1",
-    "Date": "20260413",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
-    "ASN": "402404",
     "Value": "1",
     "Date": "20260413",
     "Status": "assigned"
@@ -236925,6 +236917,38 @@
     "ASN": "402419",
     "Value": "1",
     "Date": "20260416",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402421",
+    "Value": "1",
+    "Date": "20260416",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402422",
+    "Value": "1",
+    "Date": "20260416",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402423",
+    "Value": "1",
+    "Date": "20260416",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402424",
+    "Value": "1",
+    "Date": "20260417",
     "Status": "assigned"
   }
 ]
