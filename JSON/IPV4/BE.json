@@ -2138,7 +2138,19 @@
   {
     "Country": "BE",
     "IP": "150.251.0.0",
-    "PrefixLength": "17",
+    "PrefixLength": "18",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "BE",
+    "IP": "150.251.64.0",
+    "PrefixLength": "21",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "BE",
+    "IP": "150.251.72.0",
+    "PrefixLength": "22",
     "Version": "ipv4"
   },
   {
