@@ -240,6 +240,14 @@
     "Status": "allocated"
   },
   {
+    "Registry": "arin",
+    "Country": "MY",
+    "ASN": "24062",
+    "Value": "1",
+    "Date": "20260421",
+    "Status": "assigned"
+  },
+  {
     "Registry": "apnic",
     "Country": "MY",
     "ASN": "24063",
@@ -3197,6 +3205,22 @@
     "ASN": "402328",
     "Value": "1",
     "Date": "20260326",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "MY",
+    "ASN": "402394",
+    "Value": "1",
+    "Date": "20260410",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "MY",
+    "ASN": "402415",
+    "Value": "1",
+    "Date": "20260414",
     "Status": "assigned"
   }
 ]

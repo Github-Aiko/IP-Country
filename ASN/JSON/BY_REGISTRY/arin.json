@@ -90514,14 +90514,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "22389",
-    "Value": "1",
-    "Date": "20180508",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "22390",
     "Value": "1",
     "Date": "20010921",
@@ -98949,6 +98941,14 @@
     "ASN": "24004",
     "Value": "1",
     "Date": "20220913",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "MY",
+    "ASN": "24062",
+    "Value": "1",
+    "Date": "20260421",
     "Status": "assigned"
   },
   {
@@ -252161,7 +252161,7 @@
   },
   {
     "Registry": "arin",
-    "Country": "US",
+    "Country": "MY",
     "ASN": "402394",
     "Value": "1",
     "Date": "20260410",
@@ -252225,7 +252225,7 @@
   },
   {
     "Registry": "arin",
-    "Country": "US",
+    "Country": "TH",
     "ASN": "402402",
     "Value": "1",
     "Date": "20260413",
@@ -252329,7 +252329,7 @@
   },
   {
     "Registry": "arin",
-    "Country": "US",
+    "Country": "MY",
     "ASN": "402415",
     "Value": "1",
     "Date": "20260414",
@@ -252429,6 +252429,14 @@
     "ASN": "402427",
     "Value": "1",
     "Date": "20260417",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402428",
+    "Value": "1",
+    "Date": "20260420",
     "Status": "assigned"
   }
 ]
