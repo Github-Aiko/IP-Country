@@ -156487,12 +156487,6 @@
   },
   {
     "Country": "EC",
-    "IP": "2803:8e90::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "EC",
     "IP": "2803:9030::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -263552,6 +263546,18 @@
   {
     "Country": "MX",
     "IP": "2806:463::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "MX",
+    "IP": "2806:465::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "MX",
+    "IP": "2806:467::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
