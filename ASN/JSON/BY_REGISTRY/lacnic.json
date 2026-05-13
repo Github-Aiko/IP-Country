@@ -1857,14 +1857,6 @@
   },
   {
     "Registry": "lacnic",
-    "Country": "BR",
-    "ASN": "11295",
-    "Value": "1",
-    "Date": "20000118",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
     "Country": "AR",
     "ASN": "11311",
     "Value": "1",
@@ -2205,14 +2197,6 @@
     "ASN": "11888",
     "Value": "1",
     "Date": "19990128",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
-    "Country": "BR",
-    "ASN": "11896",
-    "Value": "1",
-    "Date": "19991118",
     "Status": "allocated"
   },
   {
@@ -62274,6 +62258,14 @@
   {
     "Registry": "lacnic",
     "Country": "BR",
+    "ASN": "267976",
+    "Value": "1",
+    "Date": "20181113",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
     "ASN": "267978",
     "Value": "1",
     "Date": "20181113",
@@ -109778,6 +109770,14 @@
   {
     "Registry": "lacnic",
     "Country": "BR",
+    "ASN": "274604",
+    "Value": "1",
+    "Date": "20240814",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
     "ASN": "274605",
     "Value": "1",
     "Date": "20240815",
@@ -112217,6 +112217,30 @@
   },
   {
     "Registry": "lacnic",
+    "Country": "CO",
+    "ASN": "274925",
+    "Value": "1",
+    "Date": "20260512",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "CO",
+    "ASN": "274926",
+    "Value": "1",
+    "Date": "20260512",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "CO",
+    "ASN": "274927",
+    "Value": "1",
+    "Date": "20260512",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
     "Country": "BR",
     "ASN": "275613",
     "Value": "1",
@@ -113285,6 +113309,22 @@
     "ASN": "275746",
     "Value": "1",
     "Date": "20260505",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
+    "ASN": "275747",
+    "Value": "1",
+    "Date": "20260512",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
+    "ASN": "275748",
+    "Value": "1",
+    "Date": "20260512",
     "Status": "allocated"
   }
 ]
