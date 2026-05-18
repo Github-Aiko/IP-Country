@@ -27313,6 +27313,12 @@
   },
   {
     "Country": "US",
+    "IP": "45.74.224.0",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
     "IP": "45.74.252.0",
     "PrefixLength": "23",
     "Version": "ipv4"
@@ -72915,6 +72921,12 @@
     "Country": "US",
     "IP": "70.40.64.0",
     "PrefixLength": "18",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "70.40.128.0",
+    "PrefixLength": "21",
     "Version": "ipv4"
   },
   {
@@ -122061,12 +122073,6 @@
     "Country": "US",
     "IP": "139.100.64.0",
     "PrefixLength": "19",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "US",
-    "IP": "139.100.98.0",
-    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
