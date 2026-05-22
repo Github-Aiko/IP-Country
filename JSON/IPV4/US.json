@@ -12739,12 +12739,6 @@
   },
   {
     "Country": "US",
-    "IP": "23.155.228.0",
-    "PrefixLength": "24",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "US",
     "IP": "23.155.232.0",
     "PrefixLength": "24",
     "Version": "ipv4"
@@ -13424,6 +13418,12 @@
   {
     "Country": "US",
     "IP": "23.158.152.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "23.158.156.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
@@ -88837,6 +88837,12 @@
   },
   {
     "Country": "US",
+    "IP": "86.226.0.0",
+    "PrefixLength": "16",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
     "IP": "87.56.0.0",
     "PrefixLength": "19",
     "Version": "ipv4"
@@ -89709,6 +89715,12 @@
     "Country": "US",
     "IP": "89.254.32.0",
     "PrefixLength": "19",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "90.96.0.0",
+    "PrefixLength": "16",
     "Version": "ipv4"
   },
   {
@@ -124340,7 +124352,19 @@
   {
     "Country": "US",
     "IP": "140.232.160.0",
-    "PrefixLength": "20",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "140.232.164.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "140.232.168.0",
+    "PrefixLength": "21",
     "Version": "ipv4"
   },
   {
@@ -188887,12 +188911,6 @@
   },
   {
     "Country": "US",
-    "IP": "189.24.64.0",
-    "PrefixLength": "18",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "US",
     "IP": "189.24.128.0",
     "PrefixLength": "17",
     "Version": "ipv4"
@@ -189045,12 +189063,6 @@
     "Country": "US",
     "IP": "189.105.16.0",
     "PrefixLength": "20",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "US",
-    "IP": "189.105.64.0",
-    "PrefixLength": "18",
     "Version": "ipv4"
   },
   {
@@ -201686,6 +201698,12 @@
   {
     "Country": "US",
     "IP": "192.54.53.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "192.54.81.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
