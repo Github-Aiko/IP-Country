@@ -95653,12 +95653,6 @@
   },
   {
     "Country": "CA",
-    "IP": "2602:80b:7000::",
-    "PrefixLength": "44",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CA",
     "IP": "2602:80c:e000::",
     "PrefixLength": "40",
     "Version": "ipv6"
@@ -351121,6 +351115,24 @@
   },
   {
     "Country": "US",
+    "IP": "2602:f3b0::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f3b1::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f3b2::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:f3b3::",
     "PrefixLength": "40",
     "Version": "ipv6"
@@ -398216,7 +398228,7 @@
   {
     "Country": "US",
     "IP": "2620:f3::",
-    "PrefixLength": "48",
+    "PrefixLength": "44",
     "Version": "ipv6"
   },
   {
