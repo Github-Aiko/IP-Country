@@ -140012,7 +140012,7 @@
   {
     "Country": "DE",
     "IP": "2a00:fda0::",
-    "PrefixLength": "32",
+    "PrefixLength": "29",
     "Version": "ipv6"
   },
   {
@@ -140330,6 +140330,12 @@
   {
     "Country": "DE",
     "IP": "2a01:980::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "DE",
+    "IP": "2a01:b80::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
@@ -184387,6 +184393,12 @@
   },
   {
     "Country": "GB",
+    "IP": "2a0d:5700::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GB",
     "IP": "2a0d:57c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -192752,6 +192764,12 @@
   {
     "Country": "HK",
     "IP": "2404:2a80::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "HK",
+    "IP": "2404:2b40::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -279391,6 +279409,12 @@
   },
   {
     "Country": "NO",
+    "IP": "2001:678:129c::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "NO",
     "IP": "2001:67c:a4::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -292676,6 +292700,12 @@
   {
     "Country": "PL",
     "IP": "2001:678:1238::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PL",
+    "IP": "2001:678:1298::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -351277,6 +351307,24 @@
   },
   {
     "Country": "US",
+    "IP": "2602:f3a5::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f3a6::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f3a7::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:f3a8::",
     "PrefixLength": "40",
     "Version": "ipv6"
@@ -381188,6 +381236,12 @@
   {
     "Country": "US",
     "IP": "2606:e640::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2606:e680::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
