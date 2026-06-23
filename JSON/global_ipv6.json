@@ -25261,12 +25261,6 @@
   },
   {
     "Country": "AU",
-    "IP": "2407:2740::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "AU",
     "IP": "2407:2980::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -105715,12 +105709,6 @@
   },
   {
     "Country": "CH",
-    "IP": "2a07:e640::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CH",
     "IP": "2a09:4c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -184207,12 +184195,6 @@
   },
   {
     "Country": "GB",
-    "IP": "2a0c:4080::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
     "IP": "2a0c:4380::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -186938,6 +186920,18 @@
   {
     "Country": "GB",
     "IP": "2a14:33c0::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GB",
+    "IP": "2a14:3b80::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "GB",
+    "IP": "2a14:3d80::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
@@ -207998,6 +207992,24 @@
   {
     "Country": "ID",
     "IP": "2001:df7:24c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df7:25c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df7:2640::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df7:26c0::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -343543,6 +343555,12 @@
   },
   {
     "Country": "UA",
+    "IP": "2a0b:3600::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "UA",
     "IP": "2a0b:42c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -385604,6 +385622,12 @@
   {
     "Country": "US",
     "IP": "2607:9740::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2607:9780::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
