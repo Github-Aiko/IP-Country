@@ -810,14 +810,6 @@
   {
     "Registry": "lacnic",
     "Country": "DO",
-    "ASN": "272082",
-    "Value": "1",
-    "Date": "20220303",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
-    "Country": "DO",
     "ASN": "272083",
     "Value": "1",
     "Date": "20220303",
@@ -1837,6 +1829,14 @@
     "ASN": "274946",
     "Value": "1",
     "Date": "20260605",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "DO",
+    "ASN": "274964",
+    "Value": "1",
+    "Date": "20260624",
     "Status": "allocated"
   }
 ]
