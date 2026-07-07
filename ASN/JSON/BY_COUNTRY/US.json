@@ -145938,14 +145938,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "46693",
-    "Value": "1",
-    "Date": "20230418",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "46694",
     "Value": "1",
     "Date": "20081112",
@@ -147741,6 +147733,14 @@
     "ASN": "46952",
     "Value": "1",
     "Date": "20090514",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "46953",
+    "Value": "1",
+    "Date": "20240813",
     "Status": "assigned"
   },
   {
@@ -176341,6 +176341,14 @@
     "ASN": "216475",
     "Value": "1",
     "Date": "20230814",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "US",
+    "ASN": "219255",
+    "Value": "1",
+    "Date": "20260707",
     "Status": "allocated"
   },
   {
@@ -238317,6 +238325,54 @@
     "ASN": "402701",
     "Value": "1",
     "Date": "20260702",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402702",
+    "Value": "1",
+    "Date": "20260706",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402703",
+    "Value": "1",
+    "Date": "20260706",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402704",
+    "Value": "1",
+    "Date": "20260706",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402705",
+    "Value": "1",
+    "Date": "20260706",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402706",
+    "Value": "1",
+    "Date": "20260706",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402707",
+    "Value": "1",
+    "Date": "20260706",
     "Status": "assigned"
   }
 ]
