@@ -10147,6 +10147,12 @@
   },
   {
     "Country": "AR",
+    "IP": "2803:ad30::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AR",
     "IP": "2803:ad90::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -59846,12 +59852,6 @@
   {
     "Country": "BR",
     "IP": "2804:3170::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
-    "IP": "2804:3174::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
