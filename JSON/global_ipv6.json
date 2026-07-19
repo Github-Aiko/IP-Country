@@ -225559,6 +225559,12 @@
   },
   {
     "Country": "IN",
+    "IP": "2001:df7:3840::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "IN",
     "IP": "2001:df7:3980::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -283646,6 +283652,12 @@
   {
     "Country": "NP",
     "IP": "2402:6640::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "NP",
+    "IP": "2402:67e0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
