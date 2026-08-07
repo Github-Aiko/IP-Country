@@ -106409,14 +106409,6 @@
   },
   {
     "Registry": "lacnic",
-    "Country": "CL",
-    "ASN": "274177",
-    "Value": "1",
-    "Date": "20250801",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
     "Country": "PE",
     "ASN": "274178",
     "Value": "1",
@@ -114277,6 +114269,14 @@
     "ASN": "275817",
     "Value": "1",
     "Date": "20260804",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
+    "ASN": "275818",
+    "Value": "1",
+    "Date": "20260806",
     "Status": "allocated"
   }
 ]
