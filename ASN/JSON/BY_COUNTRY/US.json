@@ -108690,14 +108690,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "30216",
-    "Value": "1",
-    "Date": "20030813",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "30217",
     "Value": "1",
     "Date": "20030813",
@@ -175210,14 +175202,6 @@
   {
     "Registry": "ripencc",
     "Country": "US",
-    "ASN": "214061",
-    "Value": "1",
-    "Date": "20241009",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "ripencc",
-    "Country": "US",
     "ASN": "214083",
     "Value": "1",
     "Date": "20241004",
@@ -175845,6 +175829,22 @@
     "ASN": "216475",
     "Value": "1",
     "Date": "20230814",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "US",
+    "ASN": "219043",
+    "Value": "1",
+    "Date": "20260806",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "ripencc",
+    "Country": "US",
+    "ASN": "219045",
+    "Value": "1",
+    "Date": "20260806",
     "Status": "allocated"
   },
   {
@@ -233042,14 +233042,6 @@
   {
     "Registry": "arin",
     "Country": "US",
-    "ASN": "402011",
-    "Value": "1",
-    "Date": "20250922",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
     "ASN": "402012",
     "Value": "1",
     "Date": "20250923",
@@ -239117,6 +239109,38 @@
     "ASN": "402866",
     "Value": "1",
     "Date": "20260804",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402867",
+    "Value": "30",
+    "Date": "20260805",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402897",
+    "Value": "1",
+    "Date": "20260805",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402898",
+    "Value": "1",
+    "Date": "20260805",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "402899",
+    "Value": "1",
+    "Date": "20260805",
     "Status": "assigned"
   }
 ]
