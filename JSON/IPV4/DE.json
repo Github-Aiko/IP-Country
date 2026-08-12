@@ -24151,6 +24151,12 @@
   },
   {
     "Country": "DE",
+    "IP": "151.216.120.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "DE",
     "IP": "151.237.248.0",
     "PrefixLength": "21",
     "Version": "ipv4"
@@ -54980,12 +54986,6 @@
   {
     "Country": "DE",
     "IP": "194.127.96.0",
-    "PrefixLength": "24",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "DE",
-    "IP": "194.127.101.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
