@@ -7529,14 +7529,6 @@
   },
   {
     "Registry": "lacnic",
-    "Country": "GT",
-    "ASN": "27933",
-    "Value": "1",
-    "Date": "20070927",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "lacnic",
     "Country": "AR",
     "ASN": "27934",
     "Value": "1",
@@ -22829,6 +22821,14 @@
     "ASN": "64182",
     "Value": "1",
     "Date": "20260811",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "AR",
+    "ASN": "64183",
+    "Value": "1",
+    "Date": "20260818",
     "Status": "allocated"
   },
   {
@@ -101026,6 +101026,14 @@
   {
     "Registry": "lacnic",
     "Country": "BR",
+    "ASN": "273466",
+    "Value": "1",
+    "Date": "20240308",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
     "ASN": "273467",
     "Value": "1",
     "Date": "20240308",
@@ -112713,6 +112721,22 @@
   },
   {
     "Registry": "lacnic",
+    "Country": "VE",
+    "ASN": "275018",
+    "Value": "1",
+    "Date": "20260818",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "CO",
+    "ASN": "275019",
+    "Value": "1",
+    "Date": "20260818",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
     "Country": "BR",
     "ASN": "275613",
     "Value": "1",
@@ -114429,6 +114453,14 @@
     "ASN": "275827",
     "Value": "1",
     "Date": "20260817",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "lacnic",
+    "Country": "BR",
+    "ASN": "275828",
+    "Value": "1",
+    "Date": "20260818",
     "Status": "allocated"
   }
 ]
