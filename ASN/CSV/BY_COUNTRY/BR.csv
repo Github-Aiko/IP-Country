@@ -1803,6 +1803,7 @@ lacnic,BR,262896,1,20110126,allocated
 lacnic,BR,262897,1,20110128,allocated
 lacnic,BR,262898,1,20110201,allocated
 lacnic,BR,262899,1,20181101,allocated
+lacnic,BR,262901,1,20110203,allocated
 lacnic,BR,262903,1,20110203,allocated
 lacnic,BR,262905,1,20110209,allocated
 lacnic,BR,262906,1,20110211,allocated
@@ -4071,7 +4072,6 @@ lacnic,BR,266610,1,20170606,allocated
 lacnic,BR,266611,1,20170606,allocated
 lacnic,BR,266613,1,20170607,allocated
 lacnic,BR,266614,1,20170607,allocated
-lacnic,BR,266615,1,20170607,allocated
 lacnic,BR,266616,1,20170607,allocated
 lacnic,BR,266617,1,20170607,allocated
 lacnic,BR,266618,1,20170607,allocated
@@ -6233,7 +6233,6 @@ lacnic,BR,269624,1,20191206,allocated
 lacnic,BR,269625,1,20191206,allocated
 lacnic,BR,269626,1,20191206,allocated
 lacnic,BR,269627,1,20191209,allocated
-lacnic,BR,269628,1,20191209,allocated
 lacnic,BR,269630,1,20191209,allocated
 lacnic,BR,269631,1,20191209,allocated
 lacnic,BR,269632,1,20191210,allocated
@@ -7587,6 +7586,7 @@ lacnic,BR,271666,1,20210309,allocated
 lacnic,BR,271668,1,20210311,allocated
 lacnic,BR,271669,1,20210312,allocated
 lacnic,BR,271671,1,20210316,allocated
+lacnic,BR,271672,1,20210317,allocated
 lacnic,BR,271673,1,20210317,allocated
 lacnic,BR,271674,1,20210317,allocated
 lacnic,BR,271676,1,20210323,allocated
@@ -7823,7 +7823,6 @@ lacnic,BR,272486,1,20210719,allocated
 lacnic,BR,272487,1,20210720,allocated
 lacnic,BR,272488,1,20210720,allocated
 lacnic,BR,272489,1,20210721,allocated
-lacnic,BR,272491,1,20210721,allocated
 lacnic,BR,272493,1,20210723,allocated
 lacnic,BR,272494,1,20210726,allocated
 lacnic,BR,272495,1,20210726,allocated
@@ -7874,28 +7873,22 @@ lacnic,BR,272555,1,20211213,allocated
 lacnic,BR,272556,1,20211213,allocated
 lacnic,BR,272558,1,20211213,allocated
 lacnic,BR,272559,1,20211213,allocated
-lacnic,BR,272561,1,20211214,allocated
 lacnic,BR,272563,1,20211216,allocated
 lacnic,BR,272564,1,20211216,allocated
 lacnic,BR,272565,1,20211217,allocated
 lacnic,BR,272568,1,20211222,allocated
 lacnic,BR,272569,1,20211223,allocated
 lacnic,BR,272570,1,20211223,allocated
-lacnic,BR,272571,1,20211229,allocated
 lacnic,BR,272572,1,20211230,allocated
 lacnic,BR,272573,1,20211230,allocated
 lacnic,BR,272574,1,20220107,allocated
 lacnic,BR,272575,1,20220110,allocated
 lacnic,BR,272576,1,20220111,allocated
-lacnic,BR,272577,1,20220112,allocated
-lacnic,BR,272578,1,20220112,allocated
 lacnic,BR,272579,1,20220112,allocated
 lacnic,BR,272581,1,20220117,allocated
-lacnic,BR,272583,1,20220119,allocated
 lacnic,BR,272584,1,20220119,allocated
 lacnic,BR,272585,1,20220119,allocated
 lacnic,BR,272586,1,20220120,allocated
-lacnic,BR,272587,1,20220120,allocated
 lacnic,BR,272588,1,20220120,allocated
 lacnic,BR,272589,1,20220128,allocated
 lacnic,BR,272590,1,20220128,allocated
@@ -8193,7 +8186,6 @@ lacnic,BR,273457,1,20240227,allocated
 lacnic,BR,273458,1,20240228,allocated
 lacnic,BR,273459,1,20240228,allocated
 lacnic,BR,273460,1,20240228,allocated
-lacnic,BR,273461,1,20240228,allocated
 lacnic,BR,273462,1,20240306,allocated
 lacnic,BR,273463,1,20240306,allocated
 lacnic,BR,273464,1,20240307,allocated
@@ -8352,7 +8344,6 @@ lacnic,BR,273639,1,20221130,allocated
 lacnic,BR,273640,1,20221130,allocated
 lacnic,BR,273641,1,20221130,allocated
 lacnic,BR,273642,1,20221201,allocated
-lacnic,BR,273643,1,20221201,allocated
 lacnic,BR,273644,1,20221201,allocated
 lacnic,BR,273646,1,20221205,allocated
 lacnic,BR,273647,1,20221205,allocated
@@ -8805,7 +8796,6 @@ lacnic,BR,274710,1,20241205,allocated
 lacnic,BR,274711,1,20241203,allocated
 lacnic,BR,274712,1,20241203,allocated
 lacnic,BR,274713,1,20241204,allocated
-lacnic,BR,274714,1,20241205,allocated
 lacnic,BR,274715,1,20241206,allocated
 lacnic,BR,274716,1,20241209,allocated
 lacnic,BR,274717,1,20241209,allocated
@@ -8844,13 +8834,11 @@ lacnic,BR,274749,1,20250205,allocated
 lacnic,BR,274750,1,20250206,allocated
 lacnic,BR,274751,1,20250207,allocated
 lacnic,BR,274752,1,20250207,allocated
-lacnic,BR,274753,1,20250207,allocated
 lacnic,BR,274754,1,20250212,allocated
 lacnic,BR,274755,1,20250212,allocated
 lacnic,BR,274756,1,20250213,allocated
 lacnic,BR,274757,1,20250214,allocated
 lacnic,BR,274758,1,20250214,allocated
-lacnic,BR,274759,1,20250217,allocated
 lacnic,BR,274760,1,20250219,allocated
 lacnic,BR,274761,1,20250220,allocated
 lacnic,BR,274762,1,20250221,allocated
@@ -8858,7 +8846,6 @@ lacnic,BR,274763,1,20250221,allocated
 lacnic,BR,274764,1,20250225,allocated
 lacnic,BR,274765,1,20250225,allocated
 lacnic,BR,274766,1,20250225,allocated
-lacnic,BR,274767,1,20250226,allocated
 lacnic,BR,274768,1,20250227,allocated
 lacnic,BR,274769,1,20250227,allocated
 lacnic,BR,274770,1,20250307,allocated
@@ -9151,3 +9138,6 @@ lacnic,BR,275825,1,20260813,allocated
 lacnic,BR,275826,1,20260813,allocated
 lacnic,BR,275827,1,20260817,allocated
 lacnic,BR,275828,1,20260818,allocated
+lacnic,BR,275829,1,20260819,allocated
+lacnic,BR,275830,1,20260819,allocated
+lacnic,BR,275831,1,20260819,allocated
