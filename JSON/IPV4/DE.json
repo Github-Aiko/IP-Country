@@ -1322,6 +1322,12 @@
   {
     "Country": "DE",
     "IP": "13.140.0.0",
+    "PrefixLength": "17",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "DE",
+    "IP": "13.140.128.0",
     "PrefixLength": "15",
     "Version": "ipv4"
   },
