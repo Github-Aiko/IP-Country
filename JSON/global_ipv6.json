@@ -9505,6 +9505,12 @@
   },
   {
     "Country": "AR",
+    "IP": "2803:8f30::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AR",
     "IP": "2803:8f40::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -43969,12 +43975,6 @@
   },
   {
     "Country": "BR",
-    "IP": "2801:80:35e0::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
     "IP": "2801:80:35f0::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -78140,12 +78140,6 @@
   {
     "Country": "BR",
     "IP": "2804:6830::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
-    "IP": "2804:6834::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -156170,12 +156164,6 @@
   {
     "Country": "DO",
     "IP": "2803:6650::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "DO",
-    "IP": "2803:66d0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
