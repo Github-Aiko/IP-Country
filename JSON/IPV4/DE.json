@@ -41300,7 +41300,13 @@
   {
     "Country": "DE",
     "IP": "192.129.1.0",
-    "PrefixLength": "21",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "DE",
+    "IP": "192.129.5.0",
+    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
