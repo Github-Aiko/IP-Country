@@ -4789,7 +4789,7 @@ ripencc,SK,6658,1,19960528,allocated
 ripencc,DE,6659,1,19960530,allocated
 ripencc,GB,6660,1,19960530,allocated
 ripencc,LU,6661,1,19960530,allocated
-apnic,TH,6662,1,19960605,allocated
+apnic,HK,6662,1,19960605,allocated
 ripencc,RO,6663,1,19960607,allocated
 ripencc,IT,6665,1,19960610,allocated
 ripencc,DE,6666,1,19960610,allocated
@@ -15131,6 +15131,7 @@ arin,US,19542,1,20050601,assigned
 arin,US,19543,1,20070817,assigned
 arin,US,19544,1,20071221,assigned
 arin,US,19545,1,20100730,assigned
+ripencc,CH,19545,1,20100730,allocated
 arin,US,19546,1,20070820,assigned
 arin,US,19547,1,20071221,assigned
 arin,US,19548,1,20010117,assigned
@@ -30516,7 +30517,8 @@ apnic,AU,38826,1,20071130,allocated
 apnic,NZ,38827,1,20071130,allocated
 apnic,AU,38829,1,20071204,allocated
 apnic,AU,38830,1,20071204,allocated
-apnic,AU,38831,2,20071204,allocated
+apnic,AU,38831,1,20071204,allocated
+apnic,AU,38832,1,20071204,allocated
 apnic,CN,38834,1,20071206,allocated
 apnic,AU,38835,1,20071206,allocated
 apnic,AU,38836,1,20071212,allocated
@@ -31321,7 +31323,7 @@ ripencc,RU,39850,1,20060504,allocated
 ripencc,UA,39851,1,20060504,allocated
 ripencc,CA,39852,1,20060504,allocated
 ripencc,RU,39853,1,20171017,allocated
-ripencc,SK,39854,1,20060504,allocated
+ripencc,AM,39854,1,20060504,allocated
 ripencc,US,39855,1,20171017,allocated
 ripencc,PL,39856,1,20110616,allocated
 ripencc,FI,39857,1,20060505,allocated
@@ -32690,7 +32692,6 @@ ripencc,GR,41372,1,20060802,allocated
 ripencc,GB,41373,1,20060802,allocated
 ripencc,UA,41375,1,20060802,allocated
 ripencc,LV,41376,1,20170808,allocated
-ripencc,RU,41377,1,20060803,allocated
 ripencc,US,41378,1,20190416,allocated
 ripencc,GB,41379,1,20060804,allocated
 ripencc,GB,41380,1,20060804,allocated
@@ -34158,7 +34159,6 @@ ripencc,PL,43172,1,20070619,allocated
 ripencc,PL,43173,1,20070619,allocated
 ripencc,FR,43174,1,20180515,allocated
 ripencc,UA,43175,1,20070619,allocated
-ripencc,GB,43178,1,20070619,allocated
 ripencc,BA,43179,1,20070620,allocated
 ripencc,SC,43180,1,20070620,allocated
 ripencc,IL,43181,1,20170206,allocated
@@ -61017,6 +61017,9 @@ apnic,ID,154914,6,20260914,allocated
 apnic,PK,154920,1,20260914,allocated
 apnic,IN,154921,1,20260914,allocated
 apnic,IN,154922,1,20260915,allocated
+apnic,PH,154923,1,20260915,allocated
+apnic,SG,154924,1,20260916,allocated
+apnic,AU,154925,1,20260916,allocated
 ripencc,DE,196608,1,20070102,allocated
 ripencc,DE,196609,1,20070105,allocated
 ripencc,DE,196610,1,20070112,allocated
@@ -79571,6 +79574,18 @@ ripencc,SY,216472,1,20250909,allocated
 ripencc,KZ,216473,1,20250710,allocated
 ripencc,DE,216474,1,20230814,allocated
 ripencc,US,216475,1,20230814,allocated
+ripencc,CY,218651,1,20260916,allocated
+ripencc,US,218652,1,20260916,allocated
+ripencc,FR,218653,1,20260916,allocated
+ripencc,US,218654,1,20260916,allocated
+ripencc,BY,218655,1,20260916,allocated
+ripencc,GE,218656,1,20260916,allocated
+ripencc,ES,218657,1,20260916,allocated
+ripencc,AZ,218658,1,20260916,allocated
+ripencc,HK,218659,1,20260916,allocated
+ripencc,BG,218660,1,20260916,allocated
+ripencc,GB,218661,1,20260916,allocated
+ripencc,CN,218662,1,20260916,allocated
 ripencc,IT,218663,1,20260915,allocated
 ripencc,RS,218664,1,20260915,allocated
 ripencc,ES,218665,1,20260915,allocated
@@ -95760,7 +95775,6 @@ arin,US,395203,1,20160520,assigned
 arin,US,395204,1,20160520,assigned
 arin,CA,395205,1,20160520,assigned
 arin,US,395206,1,20160523,assigned
-arin,CA,395207,1,20221004,assigned
 arin,US,395208,1,20160523,assigned
 arin,US,395209,1,20160523,assigned
 arin,US,395210,1,20160524,assigned
@@ -96826,6 +96840,7 @@ arin,US,396335,1,20170510,assigned
 arin,US,396336,1,20170510,assigned
 arin,US,396337,1,20170510,assigned
 arin,CA,396338,1,20170510,assigned
+arin,US,396339,1,20260915,assigned
 arin,US,396340,1,20170511,assigned
 arin,CA,396341,1,20170511,assigned
 arin,US,396342,1,20170511,assigned
@@ -96896,6 +96911,7 @@ arin,US,396409,1,20200312,assigned
 arin,US,396410,1,20220822,assigned
 arin,US,396411,1,20170605,assigned
 arin,US,396412,1,20200224,assigned
+arin,US,396413,1,20260915,assigned
 arin,US,396414,1,20170605,assigned
 arin,US,396415,1,20170605,assigned
 arin,KN,396416,1,20220822,assigned
@@ -97007,6 +97023,7 @@ arin,US,396525,1,20190227,assigned
 arin,US,396526,1,20170707,assigned
 arin,US,396527,1,20170707,assigned
 arin,US,396528,1,20200316,assigned
+arin,CA,396529,1,20260915,assigned
 arin,US,396530,1,20230131,assigned
 arin,US,396531,1,20170710,assigned
 arin,US,396532,1,20170710,assigned
@@ -97043,6 +97060,7 @@ arin,US,396853,1,20180430,assigned
 arin,US,396855,1,20180504,assigned
 arin,US,396856,1,20231024,assigned
 arin,US,396857,1,20180507,assigned
+arin,US,396858,1,20260915,assigned
 arin,US,396859,1,20180507,assigned
 arin,US,396860,1,20180509,assigned
 arin,US,396861,1,20180509,assigned
@@ -97144,6 +97162,7 @@ arin,US,396958,1,20180713,assigned
 arin,US,396959,1,20180712,assigned
 arin,US,396960,1,20180703,assigned
 arin,US,396961,1,20180717,assigned
+arin,US,396962,1,20260915,assigned
 arin,US,396963,1,20180717,assigned
 arin,US,396964,1,20180720,assigned
 arin,US,396965,1,20180720,assigned
@@ -97607,6 +97626,7 @@ arin,US,397486,1,20190416,assigned
 arin,US,397487,1,20190416,assigned
 arin,US,397488,1,20190416,assigned
 arin,US,397489,1,20190416,assigned
+arin,US,397490,1,20260915,assigned
 arin,US,397491,1,20190417,assigned
 arin,US,397493,1,20221205,assigned
 arin,US,397494,1,20190701,assigned
@@ -97615,6 +97635,7 @@ arin,US,397496,1,20190423,assigned
 arin,US,397497,1,20190423,assigned
 arin,US,397498,1,20190423,assigned
 arin,CA,397499,1,20190423,assigned
+arin,CA,397500,1,20260915,assigned
 arin,US,397501,1,20190424,assigned
 arin,US,397502,1,20190424,assigned
 arin,US,397503,1,20190424,assigned
@@ -97747,6 +97768,7 @@ arin,US,397645,1,20190617,assigned
 arin,US,397646,1,20190618,assigned
 arin,US,397647,1,20190618,assigned
 arin,US,397648,1,20231106,assigned
+arin,US,397649,1,20260915,assigned
 arin,US,397650,1,20190618,assigned
 arin,US,397651,1,20190618,assigned
 arin,US,397652,1,20190619,assigned
@@ -98414,6 +98436,7 @@ arin,US,398336,1,20200428,assigned
 arin,US,398337,1,20200428,assigned
 arin,US,398338,1,20250626,assigned
 arin,US,398339,1,20221019,assigned
+arin,US,398340,1,20260915,assigned
 arin,CA,398341,1,20200430,assigned
 arin,US,398343,1,20200710,assigned
 arin,US,398344,1,20200430,assigned
@@ -98447,6 +98470,7 @@ arin,US,398373,1,20200508,assigned
 arin,US,398374,1,20200511,assigned
 arin,US,398375,1,20200511,assigned
 arin,US,398376,1,20200511,assigned
+arin,US,398377,1,20260915,assigned
 arin,US,398378,1,20200512,assigned
 arin,US,398379,1,20200512,assigned
 arin,US,398380,1,20200512,assigned
@@ -98487,6 +98511,7 @@ arin,US,398414,1,20200521,assigned
 arin,US,398415,1,20221019,assigned
 arin,US,398416,1,20200521,assigned
 arin,US,398417,1,20200522,assigned
+arin,US,398418,1,20260915,assigned
 arin,US,398419,1,20200522,assigned
 arin,US,398420,1,20200526,assigned
 arin,US,398421,1,20200526,assigned
@@ -98936,6 +98961,7 @@ arin,US,399006,1,20201103,assigned
 arin,US,399007,1,20201103,assigned
 arin,US,399008,1,20201103,assigned
 arin,US,399009,1,20201103,assigned
+arin,US,399010,1,20260915,assigned
 arin,US,399011,1,20201105,assigned
 arin,US,399012,1,20201106,assigned
 arin,US,399013,1,20201106,assigned
@@ -99187,6 +99213,7 @@ arin,US,399293,1,20210127,assigned
 arin,PR,399294,1,20210127,assigned
 arin,US,399295,1,20210127,assigned
 arin,US,399296,1,20210128,assigned
+arin,US,399297,1,20260915,assigned
 arin,US,399298,1,20210128,assigned
 arin,US,399299,1,20210129,assigned
 arin,US,399300,1,20210129,assigned
@@ -99336,6 +99363,7 @@ arin,US,399448,1,20210316,assigned
 arin,US,399449,1,20210316,assigned
 arin,US,399450,1,20210316,assigned
 arin,US,399451,1,20210316,assigned
+arin,US,399452,1,20260915,assigned
 arin,US,399453,1,20221205,assigned
 arin,US,399454,1,20210316,assigned
 arin,US,399455,1,20210316,assigned
