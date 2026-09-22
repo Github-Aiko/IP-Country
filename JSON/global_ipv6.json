@@ -95095,6 +95095,12 @@
   },
   {
     "Country": "BR",
+    "IP": "2804:9a9c::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
     "IP": "2a00:aee0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -289406,12 +289412,6 @@
   {
     "Country": "PE",
     "IP": "2803:3050::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "PE",
-    "IP": "2803:3140::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
