@@ -74047,12 +74047,6 @@
   },
   {
     "Country": "BR",
-    "IP": "2804:5c10::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
     "IP": "2804:5c14::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -127310,6 +127304,12 @@
   {
     "Country": "CO",
     "IP": "2803:ff20::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CO",
+    "IP": "2803:ff30::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -414404,6 +414404,12 @@
   {
     "Country": "VE",
     "IP": "2803:8050::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "VE",
+    "IP": "2803:80b0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
