@@ -104753,14 +104753,6 @@
   },
   {
     "Registry": "arin",
-    "Country": "CA",
-    "ASN": "16944",
-    "Value": "1",
-    "Date": "20000706",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
     "Country": "US",
     "ASN": "16945",
     "Value": "1",
@@ -347581,6 +347573,14 @@
     "ASN": "54133",
     "Value": "1",
     "Date": "20140626",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "CA",
+    "ASN": "54134",
+    "Value": "1",
+    "Date": "20250429",
     "Status": "assigned"
   },
   {
@@ -751976,6 +751976,14 @@
     "Status": "allocated"
   },
   {
+    "Registry": "afrinic",
+    "Country": "MR",
+    "ASN": "329821",
+    "Value": "1",
+    "Date": "20261002",
+    "Status": "allocated"
+  },
+  {
     "Registry": "arin",
     "Country": "US",
     "ASN": "393216",
@@ -823387,6 +823395,22 @@
     "Registry": "arin",
     "Country": "US",
     "ASN": "403034",
+    "Value": "1",
+    "Date": "20261002",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403035",
+    "Value": "1",
+    "Date": "20261002",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403036",
     "Value": "1",
     "Date": "20261002",
     "Status": "assigned"
