@@ -352,6 +352,14 @@
     "Status": "allocated"
   },
   {
+    "Registry": "arin",
+    "Country": "JP",
+    "ASN": "10977",
+    "Value": "1",
+    "Date": "20260616",
+    "Status": "assigned"
+  },
+  {
     "Registry": "apnic",
     "Country": "JP",
     "ASN": "17503",
@@ -1125,14 +1133,6 @@
     "ASN": "131905",
     "Value": "88",
     "Date": "20110804",
-    "Status": "allocated"
-  },
-  {
-    "Registry": "apnic",
-    "Country": "JP",
-    "ASN": "132024",
-    "Value": "1",
-    "Date": "20110908",
     "Status": "allocated"
   },
   {
@@ -2253,6 +2253,14 @@
     "ASN": "401655",
     "Value": "1",
     "Date": "20250411",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "JP",
+    "ASN": "402387",
+    "Value": "1",
+    "Date": "20260409",
     "Status": "assigned"
   }
 ]
