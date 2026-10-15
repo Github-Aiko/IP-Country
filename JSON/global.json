@@ -200509,6 +200509,12 @@
   },
   {
     "Country": "BR",
+    "IP": "164.163.243.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "BR",
     "IP": "164.163.248.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -242601,6 +242607,12 @@
     "Country": "BR",
     "IP": "200.0.202.0",
     "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "BR",
+    "IP": "200.1.7.0",
+    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {
@@ -306074,6 +306086,24 @@
   {
     "Country": "BR",
     "IP": "2804:9ad8::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2804:9adc::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2804:9ae0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2804:9ae4::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -476377,6 +476407,12 @@
   },
   {
     "Country": "CO",
+    "IP": "2803:30b0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CO",
     "IP": "2803:3130::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -602527,8 +602563,8 @@
   },
   {
     "Country": "EC",
-    "IP": "2801:1f:8400::",
-    "PrefixLength": "48",
+    "IP": "2801:17d::",
+    "PrefixLength": "44",
     "Version": "ipv6"
   },
   {
@@ -603686,6 +603722,12 @@
   {
     "Country": "EC",
     "IP": "2803:cf90::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "EC",
+    "IP": "2803:d0b0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -1188319,6 +1188361,12 @@
   },
   {
     "Country": "PA",
+    "IP": "2803:90b0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PA",
     "IP": "2803:9590::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -1247264,6 +1247312,12 @@
   {
     "Country": "PY",
     "IP": "2803:4fe0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PY",
+    "IP": "2803:50b0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
