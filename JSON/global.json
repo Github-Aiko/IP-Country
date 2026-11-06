@@ -35581,6 +35581,12 @@
   },
   {
     "Country": "AR",
+    "IP": "2803:d8b0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AR",
     "IP": "2803:d8c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -472603,12 +472609,6 @@
   },
   {
     "Country": "CO",
-    "IP": "192.135.95.0",
-    "PrefixLength": "24",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "CO",
     "IP": "192.140.124.0",
     "PrefixLength": "23",
     "Version": "ipv4"
@@ -474026,12 +474026,6 @@
   {
     "Country": "CO",
     "IP": "2801:10:e800::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CO",
-    "IP": "2801:10:f000::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -602648,12 +602642,6 @@
   {
     "Country": "EC",
     "IP": "2801:0:410::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "EC",
-    "IP": "2801:0:420::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -1966700,12 +1966688,6 @@
   {
     "Country": "VE",
     "IP": "2803:df30::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "VE",
-    "IP": "2803:e1d0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
