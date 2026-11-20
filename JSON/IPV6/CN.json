@@ -589,6 +589,12 @@
   },
   {
     "Country": "CN",
+    "IP": "2001:df7:d940::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CN",
     "IP": "2001:df7:e580::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -4874,6 +4880,12 @@
   {
     "Country": "CN",
     "IP": "2402:8180::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CN",
+    "IP": "2402:8260::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -10843,12 +10855,6 @@
   },
   {
     "Country": "CN",
-    "IP": "2406:bdc0::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "CN",
     "IP": "2406:be80::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -12374,6 +12380,12 @@
   {
     "Country": "CN",
     "IP": "2a13:1800::",
+    "PrefixLength": "29",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CN",
+    "IP": "2a13:7100::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },

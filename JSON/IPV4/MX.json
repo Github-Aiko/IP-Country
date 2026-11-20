@@ -37,6 +37,12 @@
   },
   {
     "Country": "MX",
+    "IP": "23.168.36.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "MX",
     "IP": "45.5.52.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -1340,7 +1346,13 @@
   {
     "Country": "MX",
     "IP": "148.227.180.0",
-    "PrefixLength": "22",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "MX",
+    "IP": "148.227.182.0",
+    "PrefixLength": "23",
     "Version": "ipv4"
   },
   {

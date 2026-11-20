@@ -373,6 +373,18 @@
   },
   {
     "Country": "KE",
+    "IP": "102.200.140.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "KE",
+    "IP": "102.200.152.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "KE",
     "IP": "102.200.172.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -1255,12 +1267,6 @@
   },
   {
     "Country": "KE",
-    "IP": "102.211.64.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "KE",
     "IP": "102.211.106.0",
     "PrefixLength": "24",
     "Version": "ipv4"
@@ -1899,12 +1905,6 @@
     "Country": "KE",
     "IP": "169.239.168.0",
     "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "KE",
-    "IP": "169.255.9.0",
-    "PrefixLength": "24",
     "Version": "ipv4"
   },
   {

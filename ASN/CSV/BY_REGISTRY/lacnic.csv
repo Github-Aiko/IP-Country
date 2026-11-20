@@ -1140,7 +1140,6 @@ lacnic,BR,28159,1,20090521,allocated
 lacnic,BR,28160,1,20090521,allocated
 lacnic,BR,28163,1,20090610,allocated
 lacnic,BR,28164,1,20090610,allocated
-lacnic,BR,28165,1,20090604,allocated
 lacnic,BR,28166,1,20090623,allocated
 lacnic,BR,28169,1,20090629,allocated
 lacnic,BR,28170,1,20090701,allocated
@@ -1177,7 +1176,6 @@ lacnic,BR,28207,1,20080423,allocated
 lacnic,BR,28209,1,20080508,allocated
 lacnic,BR,28210,1,20080512,allocated
 lacnic,BR,28211,1,20080513,allocated
-lacnic,BR,28212,1,20080513,allocated
 lacnic,BR,28213,1,20080515,allocated
 lacnic,BR,28215,1,20080520,allocated
 lacnic,BR,28216,1,20080604,allocated
@@ -3848,7 +3846,6 @@ lacnic,BR,263419,1,20140408,allocated
 lacnic,BR,263420,1,20140408,allocated
 lacnic,BR,263421,1,20140409,allocated
 lacnic,BR,263422,1,20140409,allocated
-lacnic,BR,263424,1,20131127,allocated
 lacnic,BR,263425,1,20131128,allocated
 lacnic,BR,263427,1,20131128,allocated
 lacnic,BR,263428,1,20131128,allocated
@@ -9109,7 +9106,6 @@ lacnic,BR,269563,1,20191118,allocated
 lacnic,BR,269564,1,20191118,allocated
 lacnic,BR,269565,1,20191118,allocated
 lacnic,BR,269566,1,20191118,allocated
-lacnic,BR,269567,1,20191118,allocated
 lacnic,BR,269568,1,20191118,allocated
 lacnic,BR,269569,1,20191119,allocated
 lacnic,BR,269570,1,20191119,allocated
@@ -10815,7 +10811,6 @@ lacnic,BR,271452,1,20201020,allocated
 lacnic,BR,271453,1,20201020,allocated
 lacnic,BR,271454,1,20201020,allocated
 lacnic,BR,271455,1,20201020,allocated
-lacnic,BR,271456,1,20201021,allocated
 lacnic,BR,271457,1,20201021,allocated
 lacnic,BR,271458,1,20201021,allocated
 lacnic,BR,271459,1,20201021,allocated
@@ -10985,7 +10980,6 @@ lacnic,BR,271648,1,20210224,allocated
 lacnic,BR,271649,1,20210224,allocated
 lacnic,BR,271650,1,20210225,allocated
 lacnic,BR,271651,1,20210226,allocated
-lacnic,BR,271652,1,20210226,allocated
 lacnic,BR,271653,1,20210301,allocated
 lacnic,BR,271656,1,20210301,allocated
 lacnic,BR,271657,1,20210303,allocated
@@ -12865,7 +12859,6 @@ lacnic,BR,273785,1,20230628,allocated
 lacnic,BR,273786,1,20230704,allocated
 lacnic,BR,273787,1,20230705,allocated
 lacnic,BR,273789,1,20230706,allocated
-lacnic,BR,273790,1,20230706,allocated
 lacnic,BR,273791,1,20230710,allocated
 lacnic,BR,273793,1,20230713,allocated
 lacnic,BR,273794,1,20230714,allocated
@@ -13661,7 +13654,6 @@ lacnic,BR,274598,1,20240809,allocated
 lacnic,BR,274599,1,20240813,allocated
 lacnic,BR,274600,1,20240813,allocated
 lacnic,BR,274601,1,20240814,allocated
-lacnic,BR,274602,1,20240814,allocated
 lacnic,BR,274603,1,20240814,allocated
 lacnic,BR,274604,1,20240814,allocated
 lacnic,BR,274605,1,20240815,allocated
@@ -14142,6 +14134,16 @@ lacnic,VE,275097,1,20261029,allocated
 lacnic,PE,275098,1,20261030,allocated
 lacnic,DO,275099,1,20261103,allocated
 lacnic,AR,275100,1,20261103,allocated
+lacnic,AR,275101,1,20261110,allocated
+lacnic,CO,275102,1,20261111,allocated
+lacnic,EC,275103,1,20261112,allocated
+lacnic,AR,275104,1,20261116,allocated
+lacnic,DO,275105,1,20261116,allocated
+lacnic,CO,275106,1,20261116,allocated
+lacnic,PE,275107,1,20261116,allocated
+lacnic,DO,275108,1,20261117,allocated
+lacnic,CO,275109,1,20261118,allocated
+lacnic,CO,275110,1,20261118,allocated
 lacnic,BR,275293,1,20260902,allocated
 lacnic,BR,275294,1,20260902,allocated
 lacnic,BR,275295,1,20260902,allocated
@@ -14161,6 +14163,17 @@ lacnic,BR,275308,1,20261027,allocated
 lacnic,BR,275309,1,20261027,allocated
 lacnic,BR,275310,1,20261029,allocated
 lacnic,BR,275311,1,20261103,allocated
+lacnic,BR,275312,1,20261106,allocated
+lacnic,BR,275313,1,20261106,allocated
+lacnic,BR,275314,1,20261111,allocated
+lacnic,BR,275315,1,20261111,allocated
+lacnic,BR,275316,1,20261117,allocated
+lacnic,BR,275317,1,20261117,allocated
+lacnic,BR,275318,1,20261117,allocated
+lacnic,BR,275319,1,20261117,allocated
+lacnic,BR,275320,1,20261117,allocated
+lacnic,BR,275321,1,20261118,allocated
+lacnic,BR,275322,1,20261118,allocated
 lacnic,MX,275549,1,20261016,allocated
 lacnic,MX,275550,1,20261023,allocated
 lacnic,MX,275552,1,20261023,allocated
@@ -14168,6 +14181,7 @@ lacnic,MX,275553,1,20261007,allocated
 lacnic,MX,275554,1,20261016,allocated
 lacnic,MX,275555,1,20261021,allocated
 lacnic,MX,275557,1,20261016,allocated
+lacnic,MX,275559,1,20261113,allocated
 lacnic,BR,275613,1,20251222,allocated
 lacnic,BR,275614,1,20251222,allocated
 lacnic,BR,275615,1,20251223,allocated

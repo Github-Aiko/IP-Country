@@ -669,6 +669,7 @@ FR,2a04:8ec0::,32,ipv6
 FR,2a04:9140::,29,ipv6
 FR,2a04:9ac0::,29,ipv6
 FR,2a04:a480::,29,ipv6
+FR,2a04:a840::,29,ipv6
 FR,2a04:ac40::,29,ipv6
 FR,2a04:b280::,29,ipv6
 FR,2a04:b440::,29,ipv6
@@ -728,7 +729,6 @@ FR,2a05:b500::,29,ipv6
 FR,2a05:b640::,29,ipv6
 FR,2a05:b780::,29,ipv6
 FR,2a05:bb40::,29,ipv6
-FR,2a05:bc80::,32,ipv6
 FR,2a05:bd40::,29,ipv6
 FR,2a05:c0c0::,29,ipv6
 FR,2a05:c100::,29,ipv6
@@ -1339,7 +1339,9 @@ FR,2a12:ec00::,29,ipv6
 FR,2a12:f240::,29,ipv6
 FR,2a12:f280::,29,ipv6
 FR,2a12:f7c0::,29,ipv6
+FR,2a12:fcc0::,29,ipv6
 FR,2a13:1c0::,29,ipv6
+FR,2a13:900::,29,ipv6
 FR,2a13:b40::,29,ipv6
 FR,2a13:15c0::,29,ipv6
 FR,2a13:1d00::,29,ipv6

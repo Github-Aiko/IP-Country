@@ -505,6 +505,12 @@
   },
   {
     "Country": "PL",
+    "IP": "2001:678:1408::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PL",
     "IP": "2001:67c:c::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -1268,12 +1274,6 @@
   {
     "Country": "PL",
     "IP": "2001:67c:293c::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "PL",
-    "IP": "2001:67c:2990::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -3631,12 +3631,6 @@
   },
   {
     "Country": "PL",
-    "IP": "2a06:c940::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "PL",
     "IP": "2a06:dec0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -4472,12 +4466,6 @@
   {
     "Country": "PL",
     "IP": "2a0c:4340::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "PL",
-    "IP": "2a0c:44c0::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
