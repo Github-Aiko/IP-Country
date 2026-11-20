@@ -240872,7 +240872,7 @@
   {
     "Country": "BR",
     "IP": "191.136.0.0",
-    "PrefixLength": "13",
+    "PrefixLength": "15",
     "Version": "ipv4"
   },
   {
@@ -306680,6 +306680,12 @@
   {
     "Country": "BR",
     "IP": "2804:9b3c::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2804:9b40::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -598874,6 +598880,12 @@
   {
     "Country": "DO",
     "IP": "2803:2460::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "DO",
+    "IP": "2803:24b0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -1194086,6 +1194098,12 @@
   {
     "Country": "PE",
     "IP": "2803:a3e0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "PE",
+    "IP": "2803:a4b0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
