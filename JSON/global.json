@@ -146227,6 +146227,18 @@
   },
   {
     "Country": "BD",
+    "IP": "2001:df7:e5c0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
+    "IP": "2001:df7:e640::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
     "IP": "2001:df7:e680::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -970021,6 +970033,12 @@
   },
   {
     "Country": "IT",
+    "IP": "140.235.216.0",
+    "PrefixLength": "22",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "IT",
     "IP": "141.98.0.0",
     "PrefixLength": "24",
     "Version": "ipv4"
@@ -1601047,12 +1601065,6 @@
   },
   {
     "Country": "US",
-    "IP": "140.235.216.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "US",
     "IP": "140.235.224.0",
     "PrefixLength": "22",
     "Version": "ipv4"
@@ -1798886,7 +1798898,13 @@
   {
     "Country": "US",
     "IP": "199.188.240.0",
-    "PrefixLength": "22",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "US",
+    "IP": "199.188.242.0",
+    "PrefixLength": "23",
     "Version": "ipv4"
   },
   {
@@ -1902997,6 +1903015,12 @@
   },
   {
     "Country": "US",
+    "IP": "2602:802:c000::",
+    "PrefixLength": "44",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:802:d000::",
     "PrefixLength": "44",
     "Version": "ipv6"
@@ -1944367,12 +1944391,6 @@
   },
   {
     "Country": "US",
-    "IP": "2620::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
     "IP": "2620:0:10::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -1945658,6 +1945676,12 @@
   {
     "Country": "US",
     "IP": "2620:1:4000::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2620:1:6000::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -1951275,6 +1951299,12 @@
     "Country": "US",
     "IP": "2620:a4:2050::",
     "PrefixLength": "44",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2620:a4:4060::",
+    "PrefixLength": "48",
     "Version": "ipv6"
   },
   {

@@ -65540,7 +65540,7 @@
     "Country": "US",
     "ASN": "11092",
     "Value": "1",
-    "Date": "19980406",
+    "Date": "20261120",
     "Status": "assigned"
   },
   {
@@ -81692,7 +81692,7 @@
     "Country": "CA",
     "ASN": "13559",
     "Value": "1",
-    "Date": "20250319",
+    "Date": "20261120",
     "Status": "assigned"
   },
   {
@@ -139877,6 +139877,14 @@
     "ASN": "22388",
     "Value": "1",
     "Date": "20010920",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "22389",
+    "Value": "1",
+    "Date": "20261120",
     "Status": "assigned"
   },
   {
@@ -199611,14 +199619,6 @@
     "Registry": "arin",
     "Country": "US",
     "ASN": "31818",
-    "Value": "1",
-    "Date": "20031231",
-    "Status": "assigned"
-  },
-  {
-    "Registry": "arin",
-    "Country": "US",
-    "ASN": "31819",
     "Value": "1",
     "Date": "20031231",
     "Status": "assigned"
@@ -488411,6 +488411,14 @@
     "Registry": "apnic",
     "Country": "ID",
     "ASN": "155129",
+    "Value": "1",
+    "Date": "20261120",
+    "Status": "allocated"
+  },
+  {
+    "Registry": "apnic",
+    "Country": "BD",
+    "ASN": "155130",
     "Value": "1",
     "Date": "20261120",
     "Status": "allocated"
@@ -828293,6 +828301,46 @@
     "ASN": "403266",
     "Value": "1",
     "Date": "20261119",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403267",
+    "Value": "1",
+    "Date": "20261120",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403268",
+    "Value": "1",
+    "Date": "20261120",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403269",
+    "Value": "1",
+    "Date": "20261120",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403270",
+    "Value": "1",
+    "Date": "20261120",
+    "Status": "assigned"
+  },
+  {
+    "Registry": "arin",
+    "Country": "US",
+    "ASN": "403271",
+    "Value": "1",
+    "Date": "20261120",
     "Status": "assigned"
   }
 ]
