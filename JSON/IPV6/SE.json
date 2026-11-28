@@ -403,6 +403,24 @@
   },
   {
     "Country": "SE",
+    "IP": "2001:678:1428::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SE",
+    "IP": "2001:678:142c::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SE",
+    "IP": "2001:678:1430::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SE",
     "IP": "2001:67c:1c::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -2570,12 +2588,6 @@
   {
     "Country": "SE",
     "IP": "2a00:9620::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "SE",
-    "IP": "2a00:96c0::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
